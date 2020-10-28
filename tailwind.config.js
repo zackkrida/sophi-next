@@ -8,7 +8,8 @@ module.exports = {
   theme: {
     fontFamily: {
       body: ["Calibri, sans-serif"],
-      display: ["Graphik", "sans-serif"],
+      heading: ["Calibri", "sans-serif"],
+      display: ["Calibri", "sans-serif"],
     },
     extend: {
       colors: {
@@ -17,4 +18,4 @@ module.exports = {
     },
   },
   variants: {},
-};
+}
