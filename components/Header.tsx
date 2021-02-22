@@ -40,7 +40,9 @@ export function Header() {
             </div>
             <div className="hidden lg:flex-1 lg:flex lg:items-center lg:justify-between lg:space-x-8 uppercase">
               <nav className="flex space-x-6 text-sm tracking-wider">
-                <HeaderDropdownLink href="/shop">Shop</HeaderDropdownLink>
+                <HeaderDropdownLink href="/shop" items={[]}>
+                  Shop
+                </HeaderDropdownLink>
                 <HeaderLink href="/for-designers">What We Do</HeaderLink>
                 <HeaderLink href="/trends">Trends</HeaderLink>
                 <HeaderLink href="/for-vendors">Vendors</HeaderLink>
@@ -149,7 +151,7 @@ function HeaderLink({ href, children }) {
   )
 }
 
-function HeaderDropdownLink({ href, children, items }) {
+function HeaderDropdownLink({ href, children, items = [] }) {
   return (
     <div className="relative">
       <Link href={href}>
