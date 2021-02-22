@@ -61,30 +61,14 @@ export function Footer() {
               Stay on top of the latest in color.
             </p>
           </div>
-          <form className="sm:flex sm:max-w-md">
-            <label htmlFor="emailAddress" className="sr-only">
-              Email address
-            </label>
-            <input
-              type="email"
-              id="emailAddress"
-              required
-              className="appearance-none min-w-0 w-full bg-white border border-transparent rounded-md py-2 px-4 text-base leading-6 text-gray-900 placeholder-gray-500 focus:outline-none focus:border-blue-300 focus:shadow-outline-blue focus:placeholder-gray-400 transition duration-150 ease-in-out sm:max-w-xs"
-              placeholder="Enter your email"
-            />
-            <div className="mt-3 rounded-md sm:mt-0 sm:ml-3 sm:flex-shrink-0">
-              <button
-                type="submit"
-                className="w-full bg-gray-400 border border-transparent rounded-md py-2 px-4 flex items-center justify-center text-base leading-6 font-medium  hover:bg-gray-500 focus:outline-none focus:border-gray-600 focus:shadow-outline-gray active:bg-gray-600 transition duration-150 ease-in-out"
-              >
-                Sign Up
-              </button>
-            </div>
-          </form>
+          <FooterForm />
         </div>
         <div className="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between">
           <div className="flex space-x-6 md:order-2">
-            <a href="#" className=" hover:text-gray-300">
+            <a
+              href="https://www.facebook.com/Sophicolorcom-154922334533507/"
+              className="hover:text-gray-300"
+            >
               <span className="sr-only">Facebook</span>
               <svg
                 className="h-6 w-6"
@@ -99,7 +83,10 @@ export function Footer() {
                 />
               </svg>
             </a>
-            <a href="#" className=" hover:text-gray-300">
+            <a
+              href="https://instagram.com/sophicolor"
+              className="hover:text-gray-300"
+            >
               <span className="sr-only">Instagram</span>
               <svg
                 className="h-6 w-6"
@@ -114,7 +101,10 @@ export function Footer() {
                 />
               </svg>
             </a>
-            <a href="#" className=" hover:text-gray-300">
+            <a
+              href="https://www.linkedin.com/company/sophicolor/"
+              className=" hover:text-gray-300"
+            >
               <span className="sr-only">LinkedIn</span>
               <svg
                 className="h-6 w-6 p-0.5"
@@ -133,6 +123,38 @@ export function Footer() {
         </div>
       </div>
     </footer>
+  )
+}
+
+function FooterForm() {
+  return (
+    <form
+      className="sm:flex sm:max-w-md validate"
+      method="post"
+      id="hub-form"
+      name="hub-form"
+      target="_blank"
+      noValidate
+    >
+      <label htmlFor="emailAddress" className="sr-only">
+        Email address
+      </label>
+      <input
+        type="email"
+        id="emailAddress"
+        required
+        className="appearance-none min-w-0 w-full bg-white border border-transparent rounded-md py-2 px-4 text-base leading-6 text-gray-900 placeholder-gray-500 focus:outline-none focus:border-blue-300 focus:shadow-outline-blue focus:placeholder-gray-400 transition duration-150 ease-in-out sm:max-w-xs"
+        placeholder="Enter your email"
+      />
+      <div className="mt-3 rounded-md sm:mt-0 sm:ml-3 sm:flex-shrink-0">
+        <button
+          type="submit"
+          className="w-full bg-gray-400 border border-transparent rounded-md py-2 px-4 flex items-center justify-center text-base leading-6 font-medium  hover:bg-gray-500 focus:outline-none focus:border-gray-600 focus:shadow-outline-gray active:bg-gray-600 transition duration-150 ease-in-out"
+        >
+          Sign Up
+        </button>
+      </div>
+    </form>
   )
 }
 

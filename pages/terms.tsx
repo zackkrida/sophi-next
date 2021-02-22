@@ -28,7 +28,7 @@ export default function AboutUs() {
             Services. Do not use the Precision Textile Services unless you agree
             to these terms and conditions.
           </p>
-          <h3>INTELLECTUAL PROPERTY OF [PRECISIONTEX.COM][SOPHICOLOR.COM]</h3>
+          <h2>INTELLECTUAL PROPERTY OF [PRECISIONTEX.COM][SOPHICOLOR.COM]</h2>
           <p>
             All content on this website is the property of Precision Textile
             Color, Inc.

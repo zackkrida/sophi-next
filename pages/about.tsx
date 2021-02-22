@@ -5,12 +5,14 @@ export default function AboutUs() {
     <div className="relative bg-white">
       <div className="lg:absolute lg:inset-0">
         <div className="lg:absolute lg:inset-y-0 lg:left-0 lg:w-1/2">
-          <Image
-            className="h-56 w-full object-cover object-center lg:absolute lg:h-full bg-black"
-            src="/color-hall.jpg"
-            unsized={true}
-            alt="A narrow hallway steeped in vibrant colors"
-          />
+          <div className="h-56 w-full lg:absolute lg:h-full relative overflow-hidden">
+            <Image
+              src="/color-hall.jpg"
+              alt="A narrow hallway steeped in vibrant colors"
+              layout="fill"
+              className="object-cover"
+            />
+          </div>
         </div>
       </div>
       <div className="relative pt-12 pb-16 px-4 sm:pt-16 sm:px-6 lg:px-8 lg:max-w-7xl lg:mx-auto lg:grid lg:grid-cols-2">

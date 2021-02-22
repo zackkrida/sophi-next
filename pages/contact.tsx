@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <div className="relative bg-white">
+    <div className="relative bg-white h-full">
       <div className="absolute inset-0">
         <div className="absolute inset-y-0 left-0 w-1/2 bg-gray-50"></div>
       </div>
@@ -69,13 +69,6 @@ export default function Contact() {
                 </dd>
               </div>
             </dl>
-            <p className="mt-6 text-base leading-6 text-gray-500">
-              Looking for careers?
-              <a href="#" className="font-medium text-gray-700 underline">
-                View all job openings
-              </a>
-              .
-            </p>
           </div>
         </div>
         <div className="bg-white py-16 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12">
@@ -88,7 +81,8 @@ export default function Contact() {
                 <div className="relative rounded-md shadow-sm">
                   <input
                     id="full_name"
-                    className="form-input block w-full py-3 px-4 placeholder-gray-500 transition ease-in-out duration-150"
+                    type="text"
+                    className="block w-full py-3 px-4 placeholder-gray-500 transition ease-in-out duration-150"
                     placeholder="Full name"
                   />
                 </div>
@@ -101,7 +95,7 @@ export default function Contact() {
                   <input
                     id="email"
                     type="email"
-                    className="form-input block w-full py-3 px-4 placeholder-gray-500 transition ease-in-out duration-150"
+                    className="block w-full py-3 px-4 placeholder-gray-500 transition ease-in-out duration-150"
                     placeholder="Email"
                   />
                 </div>
@@ -113,7 +107,8 @@ export default function Contact() {
                 <div className="relative rounded-md shadow-sm">
                   <input
                     id="phone"
-                    className="form-input block w-full py-3 px-4 placeholder-gray-500 transition ease-in-out duration-150"
+                    type="text"
+                    className="block w-full py-3 px-4 placeholder-gray-500 transition ease-in-out duration-150"
                     placeholder="Phone"
                   />
                 </div>
@@ -125,8 +120,8 @@ export default function Contact() {
                 <div className="relative rounded-md shadow-sm">
                   <textarea
                     id="message"
-                    rows="4"
-                    className="form-input block w-full py-3 px-4 placeholder-gray-500 transition ease-in-out duration-150"
+                    rows={4}
+                    className="block w-full py-3 px-4 placeholder-gray-500 transition ease-in-out duration-150"
                     placeholder="Message"
                   ></textarea>
                 </div>
