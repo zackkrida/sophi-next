@@ -16,12 +16,12 @@ export default function Home() {
         quality={90}
       />
 
-      <div className="relative bg-gray-50 pt-16 pb-20 px-4 sm:px-6 lg:pt-24 lg:pb-28 lg:px-8">
+      <div className="relative bg-gray-50 pt-16 px-4 sm:px-6 lg:pt-12 lg:px-8">
         <div className="absolute inset-0">
           <div className="bg-white h-1/3 sm:h-2/3"></div>
         </div>
         <div className="relative max-w-7xl mx-auto">
-          <div className="text-center">
+          <div className="text-center lg:mb-20">
             <h2 className="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
               Sophicolor is the Best in Textile Color
             </h2>
@@ -32,6 +32,7 @@ export default function Home() {
               distribution, we do it all.
             </p>
           </div>
+
           <div className="mt-12 max-w-lg mx-auto grid gap-5 lg:grid-cols-2 lg:max-w-none">
             <div className="flex flex-col rounded-lg shadow-lg overflow-hidden">
               <div className="flex-shrink-0">

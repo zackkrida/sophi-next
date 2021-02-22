@@ -21,9 +21,8 @@ module.exports = {
   },
   theme: {
     fontFamily: {
-      body: ["Calibri, sans-serif"],
-      heading: ["Calibri", "sans-serif"],
-      display: ["Calibri", "sans-serif"],
+      sans:
+        'Calibri, Arial, Helvetica, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
     },
     extend: {
       colors: {
