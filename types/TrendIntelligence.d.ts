@@ -1,5 +1,5 @@
-type RawTrends = { [seasonSlug: string]: RawTrend[] }
-type RawTrend = PartialPartial<TrendPalette, "secondary_description", "colors">
+type RawTrends = { [key: string]: RawTrend[] }
+type RawTrend = PartialPartial<TrendPalette, "colorDetails" | "colors">
 
 interface TrendSeason {
   meta: TrendSeasonMeta
@@ -15,7 +15,7 @@ interface TrendPalette {
   title: string
   img: string
   description: string
-  secondary_description: string
+  colorDetails: string
   colors: TrendColor[]
 }
 

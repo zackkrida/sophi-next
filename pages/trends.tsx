@@ -1,67 +1,59 @@
 import { GroupedNativeSelect } from "components/GroupedNativeSelect"
-import trendsJSON from "data/trends.json"
-import { GetStaticPaths, GetStaticProps } from "next"
+import rawTrends from "data/trends.json"
+import { GetStaticProps } from "next"
 import { chain, compose, path, prop, propEq } from "ramda"
 import React, { ChangeEvent, useState } from "react"
 import { findOrFirst, slugToTitle } from "../components/utils"
 
+/**
+ * Trends page! Display the trend intelligence palettes, which are grouped into
+ * seasons and include purchasable colors.
+ */
 export default function TrendsPage({ trends }: TrendPageProps) {
   const [active, setActive] = useState<TrendPalette>(trends[0].palettes[0])
   return (
     <div>
       <h1>Trends</h1>
-      <TrendSelect value={active} onChange={setActive} trends={trends} />
+      <GroupedNativeSelect
+        name="TrendPalettes"
+        id="TrendPalettes"
+        value={active.title}
+        onChange={compose(setActive, matchPaletteTitle(trends))}
+        optGroups={paletteListFromTrends(trends)}
+      />
       <p>Currently selected palette is {active.title}</p>
     </div>
   )
 }
 
+type TrendPageProps = { trends: TrendSeason[] }
 export const getStaticProps: GetStaticProps<TrendPageProps> = async (
   context
-) => {
-  return {
-    props: { trends: cleanTrends(trendsJSON) },
-  }
-}
+) => ({ props: { trends: cleanTrends(rawTrends as RawTrends) } })
 
+// Clean up the raw trend JSON to a format that seperates out the
+// season-level metadata, and formats the season names
 const cleanTrends = (json: RawTrends) =>
-  Object.entries(json).map(([key, i]) => {
-    let meta: TrendSeasonMeta = { ...i[0], seasonSlug: key }
-    return { meta, palettes: i } as TrendSeason
+  Object.entries(json).map(([slug, palettes]) => {
+    let meta: TrendSeasonMeta = {
+      ...palettes[0], // The first palette contains the metadata for the entire season
+      seasonSlug: slugToTitle(slug),
+    }
+    return { meta, palettes: palettes as TrendPalette[] }
   }) as TrendSeason[]
 
-const TrendSelect = ({ trends, value, onChange }: TrendSelectProps) => (
-  <GroupedNativeSelect
-    name="TrendPalettes"
-    id="TrendPalettes"
-    value={value.title}
-    onChange={compose(onChange, matchPaletteTitle(trends))}
-    optGroups={paletteListFromTrends(trends)}
-  />
-)
+// Take a palette title from a dom event and return the full palette, or the first palette
+const matchPaletteTitle = (trendSeasons: TrendSeason[]) => (
+  event: ChangeEvent<HTMLSelectElement>
+) => findOrFirst(matchTitleFromChangeEvent(event), getPalettes(trendSeasons))
 
 const paletteListFromTrends = (trends: TrendSeason[]) =>
   trends.map((i) => [
-    slugToTitle(i.meta.seasonSlug),
+    i.meta.seasonSlug,
     i.palettes.map((i) => i.title),
-  ]) as SelectOptionGroups
+  ]) as SelectOptionGroup[]
 
 const getPalettes = chain<TrendSeason, TrendPalette>(prop("palettes"))
 const matchTitle = propEq("title")
 const targetValue = path<string>(["target", "value"])
 const matchTitleFromChangeEvent = compose(matchTitle, targetValue)
-
-// Take a palette title from a dom event and return the full palette
-const matchPaletteTitle = (trendSeasons: TrendSeason[]) => (
-  event: ChangeEvent<HTMLSelectElement>
-) => findOrFirst(matchTitleFromChangeEvent(event), getPalettes(trendSeasons))
-
-interface TrendSelectProps {
-  value: TrendPalette
-  trends: TrendSeason[]
-  onChange: (value: TrendPalette) => void
-}
-interface TrendPageProps {
-  trends: TrendSeason[]
-}
-type SelectOptionGroups = [string, string[]][]

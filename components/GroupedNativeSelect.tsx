@@ -6,7 +6,7 @@ export const GroupedNativeSelect = ({
 )
 
 // Render optgroups for a native select box. Accepts an array of [string, string[]] tuples
-export const renderSelectOptGroups = (groups: StringGroupTuple[]) =>
+export const renderSelectOptGroups = (groups: SelectOptionGroup[]) =>
   groups.map(([group, items]) => (
     <optgroup key={group} label={group as string}>
       {(items as string[]).map((i: string) => (
@@ -17,7 +17,6 @@ export const renderSelectOptGroups = (groups: StringGroupTuple[]) =>
     </optgroup>
   ))
 
-type StringGroupTuple = [group: string, items: string[]]
 interface GroupedSelectProps extends React.HTMLProps<HTMLSelectElement> {
-  optGroups: StringGroupTuple[]
+  optGroups: SelectOptionGroup[]
 }
