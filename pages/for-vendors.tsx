@@ -119,7 +119,7 @@ function ForVendorsPage() {
   )
 }
 
-export function CheckedFact({ copy }) {
+export function CheckedFact({ copy }: { copy: string }) {
   return (
     <li className="flex">
       {/* <!-- Heroicon name: outline/check --> */}

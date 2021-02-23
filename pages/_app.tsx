@@ -2,7 +2,9 @@ import { Footer } from "components/Footer"
 import { Header } from "components/Header"
 import "../styles/index.css"
 
-function MyApp({ Component, pageProps }) {
+import { AppProps } from "next/app"
+
+function MyApp({ Component, pageProps }: AppProps) {
   return (
     <div className="app">
       <Header />

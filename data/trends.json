@@ -1,0 +1,3046 @@
+{
+  "spring-summer-2022": [
+    {
+      "title": "Paradigm Shift",
+      "img": "/images/trends/spring-summer-2022/cover.jpg",
+      "description": "For our first post-COVID-19 year, there is a special emphasis on health and wellbeing. Calming neutrals, optimistic brights and clean pastels will all play an important role. We embrace change and accept a new normal - moving at a slower pace and with a fresh appreciation for everyday life. For those that still work from home colors that \"pop\" on screen and are considered trans-seasonal will resonate with consumers."
+    },
+    {
+      "title": "Olive Grove - Womens ",
+      "img": "/images/trends/spring-summer-2022/olivegrove_women.jpg",
+      "description": "It's time to make travel plans again and a dream trip to the Mediterranean sounds inviting. The olive groves of Italy, France and Spain are full of calming neutral colors and of course produce oils essential to a balanced diet. ",
+      "secondary_description": "Elevated neutrals in shades of olive, goldenrod, khaki, fern green and rust work back to ecru and black. ",
+      "colors": [
+        { "number": "81-0168-10", "name": "Jungle" },
+        { "number": "43-0015-11", "name": "Tiger Lily " },
+        { "number": "32-0049-10", "name": "Pollen" },
+        { "number": "81-0011-12", "name": "Banana Leaf " },
+        { "number": "02-0015-10", "name": "Ecru" },
+        { "number": "20-0118-10", "name": "Onyx" },
+        { "number": "22-0001-10", "name": "Khaki" },
+        { "number": "83-0054-10", "name": "Lemongrass" },
+        { "number": "83-0082-10", "name": "Wild Olive" },
+        { "number": "81-0088-10", "name": "Fern" }
+      ]
+    },
+    {
+      "title": "Olive Grove - Mens ",
+      "img": "/images/trends/spring-summer-2022/olivegrove_men.jpg",
+      "description": "A palette Inspired by the Mediterranean way of life with olive oil at the core of a balanced diet; the olive groves of the region are full of neutral colors that offer a calming effect. ",
+      "secondary_description": "A variety of natural greens and browns worked back to earthy neutrals. ",
+      "colors": [
+        { "number": "80-0026-10", "name": "Venus" },
+        { "number": "81-0101-10", "name": "Banana Leaf" },
+        { "number": "82-0154-10", "name": "Pasture" },
+        { "number": "81-0168-10", "name": "Jungle" },
+        { "number": "81-0033-10", "name": "Daylily" },
+        { "number": "81-0088-10", "name": "Fern" },
+        { "number": "83-0054-10", "name": "Lemongrass" },
+        { "number": "90-0041-10", "name": "Pebble" },
+        { "number": "83-0082-10", "name": "Wild Olive" },
+        { "number": "83-0127-10", "name": "Kiwi " }
+      ]
+    },
+    {
+      "title": "Joy - Womens ",
+      "img": "/images/trends/spring-summer-2022/joy_women.jpg",
+      "description": "Time to spark joy by balancing the chakras—seven spinning wheels of energy that exist inside us and everything else; they fuel our sense of interconnectedness and an understanding of our place in the world. ",
+      "secondary_description": "A variety of high-energy colors including scarlet red, bright orange, fuchsia pink and sunshine yellow are balanced by violet, magenta, lime green and butter",
+      "colors": [
+        { "number": "62-0104-10", "name": "Wavelength" },
+        { "number": "49-0040-11", "name": "Asteroid" },
+        { "number": "42-0037-11", "name": "Apollo" },
+        { "number": "52-0018-11", "name": "Pulsar" },
+        { "number": "80-0149-10", "name": "Plasma" },
+        { "number": "31-0058-10", "name": "Venus" },
+        { "number": "32-0022-10", "name": "Orion" },
+        { "number": "71-0158-10", "name": "Moonscape " },
+        { "number": "54-0010-11", "name": "Ultraviolet" },
+        { "number": "39-0020-11", "name": "Pieiades " }
+      ]
+    },
+    {
+      "title": "Joy - Mens",
+      "img": "/images/trends/spring-summer-2022/joy_men.jpg",
+      "description": "After the turmoil of the past several years there is a need to seek balance. Explore the chakras as a lens through which you can integrate the body, mind, and spirit together engendering an optimistic and joyful mood. ",
+      "secondary_description": "Bright colors are tempered by a mid-toned blue, violet and magenta. ",
+      "colors": [
+        { "number": "80-0149-10", "name": "Plasma" },
+        { "number": "62-0104-10", "name": "Wavelength" },
+        { "number": "31-0058-10", "name": "Venus" },
+        { "number": "71-0090-10", "name": "Chiron" },
+        { "number": "54-0010-11", "name": "Ultraviolet" },
+        { "number": "42-0037-11", "name": "Apollo" },
+        { "number": "49-0040-11", "name": "Asteroid" },
+        { "number": "71-0158-10", "name": "Moonscape" },
+        { "number": "39-0020-11", "name": "Pielades" },
+        { "number": "52-0018-11", "name": "Pulsar " }
+      ]
+    },
+    {
+      "title": "Craft - Womens ",
+      "img": "/images/trends/spring-summer-2022/craft_women.jpg",
+      "description": "In these slower, laid back times there is a renewed interest in core basics including denim and utility looks. These colors work for both stay at home clothes or for outdoor casual wear. ",
+      "secondary_description": "Denim colors are combined with teal shades of blue and green with pops of purple and orchid. ",
+      "colors": [
+        { "number": "70-0142-10", "name": "Astral" },
+        { "number": "53-0019-11", "name": "Vinca" },
+        { "number": "71-0067-10", "name": " Blue Jay" },
+        { "number": "72-0064-11", "name": "Orbit " },
+        { "number": "59-0066-11", "name": "Gamma Ray" },
+        { "number": "74-0060-11", "name": "Cascade " },
+        { "number": "82-0112-10", "name": "Virgo" },
+        { "number": "74-0084-11", "name": "Spruce " },
+        { "number": "73-0036-10", "name": "Galileo" },
+        { "number": "52-0011-11", "name": "Orchid " }
+      ]
+    },
+    {
+      "title": "Craft - Mens ",
+      "img": "/images/trends/spring-summer-2022/craft_men.jpg",
+      "description": "There is a new regard for \"basics\" and this theme takes an elevated look at utilitarian and denim looks by re-coloring in unexpected combinations. ",
+      "secondary_description": "Denim shades of blue work with tones of teal popped by mauve and lemongrass; grounded by beige neutrals. ",
+      "colors": [
+        { "number": "70-0142-10", "name": "Astral" },
+        { "number": "53-0019-11", "name": "Vinca" },
+        { "number": "74-0060-11", "name": "Cascade" },
+        { "number": "10-0014-10", "name": "Almond " },
+        { "number": "52-0011-11", "name": "Orchid" },
+        { "number": "71-0067-10", "name": "Blue Jay" },
+        { "number": "02-0003-10", "name": "Antique" },
+        { "number": "53-0010-11", "name": "Moonscape " },
+        { "number": "50-0113-11", "name": "Nebula" },
+        { "number": "81-0101-10", "name": "Banana Leaf " }
+      ]
+    },
+    {
+      "title": "Escape - Womens ",
+      "img": "/images/trends/spring-summer-2022/escape_women.jpg",
+      "description": "Colors in this palette reflect that Post-COVID there is a renewed sense of freedom; enjoying simple pleasures such as a walk on the beach breathing in fresh air or enjoying a day at the spa. ",
+      "secondary_description": "Fresh icy pastels mix with violet shades and work back to ochre and coral pink ",
+      "colors": [
+        { "number": "50-0089-11", "name": "Ultraviolet" },
+        { "number": "39-0052-10", "name": "Perigree " },
+        { "number": "49-0011-11", "name": "Asteroid" },
+        { "number": "60-0037-10", "name": "Jupiter" },
+        { "number": "60-0093-10", "name": "Nebula" },
+        { "number": "75-0007-11", "name": "Aires " },
+        { "number": "80-0133-10", "name": "Titan" },
+        { "number": "80-0106-10", "name": "Spiral " },
+        { "number": "89-0009-10", "name": "Plasma" },
+        { "number": "59-0023-11", "name": "Gamma Ray" }
+      ]
+    },
+    {
+      "title": "Escape - Mens ",
+      "img": "/images/trends/spring-summer-2022/escape_men.jpg",
+      "description": "After many months of feeling our very freedoms are under siege, there is a huge sense of relief that normal life can resume. Simple pleasures like a walk on the beach and breathing in fresh air without masks resonate. Colors in this palette are fresh and clean. ",
+      "secondary_description": "Icy pastels mix neutral shades of ivory and beige, popped by ochre and mid-toned blue.",
+      "colors": [
+        { "number": "60-0037-10", "name": "Jupiter" },
+        { "number": "02-0026-10", "name": "Tawny " },
+        { "number": "31-0085-10", "name": "Orion" },
+        { "number": "71-0018-10", "name": "Altitude " },
+        { "number": "50-0051-11", "name": "Nebula" },
+        { "number": "10-0002-10", "name": "Bisque" },
+        { "number": "00-0023-10", "name": "Ivory" },
+        { "number": "70-0106-10", "name": "Milky Way " },
+        { "number": "80-0106-10", "name": "Spiral" },
+        { "number": "75-0007-11", "name": "Aires " }
+      ]
+    }
+  ],
+  "fall-winter-2021": [
+    {
+      "title": "The Spirit of the Times",
+      "description": "Our color choices reflect the spirit of the times. As the seasons grow less distinct from one another we embrace palettes that are trans-seasonal. For Fall/Winter 2021, we will look to digital shades of red and orange to infuse a well-needed shot of energy. On the other hand, nature still informs our desire for green, brown and olive earth tones.",
+      "img": "/images/trends/fallwinter-2021/cover.jpg"
+    },
+    {
+      "title": "Forestland - Womens",
+
+      "description": "For the past few seasons we have noted that concern about shrinking woodlands, endangered species and climate change has had a great influence on our color choices. This palette is inspired by the many brown and green shades of the forest contrasted to a bleached ivory, the color of bone. ",
+      "secondary_description": "Shades of green, brown and olive are in contrast to a bleached ivory.",
+      "img": "/images/trends/fallwinter-2021/forestland_women.jpg",
+      "colors": [
+        { "number": "81-0112-10", "name": "Jungle" },
+        { "number": "51-0071-11", "name": "Aubergine" },
+        { "number": "90-0006-10", "name": "Antique" },
+        { "number": "84-0024-10", "name": "Moss" },
+        { "number": "83-0127-10", "name": "Kiwi" },
+        { "number": "81-0013-12", "name": "Banana Leaf" },
+        { "number": "73-0078-10", "name": "Blue Jay" },
+        { "number": "10-0132-10", "name": "Smoke" },
+        { "number": "11-0156-10", "name": "Deep Olive" },
+        { "number": "22-0014-10", "name": "Adobe" }
+      ]
+    },
+    {
+      "title": "Forestland - Mens",
+
+      "description": "An acknowledgement of disappearing woodlands has engendered an appeal for the colors of the forest. This palette works well for classic and re-worked camouflage prints",
+      "secondary_description": "Copper and khaki mix with shades of green, olive and brown. Pops of acid green and aubergine add a modern touch.",
+      "img": "/images/trends/fallwinter-2021/forestland_men.jpg",
+      "colors": [
+        { "number": "81-0112-10", "name": "Jungle" },
+        { "number": "73-0099-10", "name": "Blue Jay" },
+        { "number": "81-0054-10", "name": "Apogee" },
+        { "number": "51-0071-11", "name": "Aubergine" },
+        { "number": "22-0014-10", "name": "Adobe" },
+        { "number": "11-0140-10", "name": "Khaki" },
+        { "number": "84-0024-10", "name": "Moss" },
+        { "number": "11-0156-10", "name": "Deep Olive" },
+        { "number": "23-0020-10", "name": "Sable" },
+        { "number": "83-0127-10", "name": "Kiwi" }
+      ]
+    },
+    {
+      "title": "Geometric - Womens",
+
+      "description": "The fact that the world is changing, both physically and socially, can be unsettling. In fashion, the rigor of architectural tailoring, the surety of repeat patterns and the boldness of color blocking expressed in shades of red and grey creates a look of confidence. ",
+      "secondary_description": "Shades of red, from bright to burgundy mix with black, grey and the palest of blues.",
+      "img": "/images/trends/fallwinter-2021/geometric_women.jpg",
+      "colors": [
+        { "number": "65-0022-10", "name": "Begonia" },
+        { "number": "69-0023-10", "name": "Zenith" },
+        { "number": "98-0007-10", "name": "Onyx" },
+        { "number": "00-0006-10", "name": "Snow" },
+        { "number": "70-0049-10", "name": "Astral" },
+        { "number": "49-0044-11", "name": "Asteroid" },
+        { "number": "90-0106-10", "name": "Fog" },
+        { "number": "21-0049-10", "name": "Auburn" },
+        { "number": "63-0108-10", "name": "Fireball" },
+        { "number": "10-0101-10", "name": "Cement" }
+      ]
+    },
+    {
+      "title": "Geometric - Mens",
+
+      "description": "Red becomes a key color for F/W 2021, both in bright and darker shades. It works well for knits and outerwear adding a little drama to classic shapes.",
+      "secondary_description": "Shades of red, from bright to dark, mix with grey and black.",
+      "img": "/images/trends/fallwinter-2021/geometric_men.jpg",
+      "colors": [
+        { "number": "65-0022-10", "name": "Begonia" },
+        { "number": "98-0007-10", "name": "Onyx" },
+        { "number": "69-0023-10", "name": "Zenith" },
+        { "number": "00-0006-10", "name": "Snow" },
+        { "number": "10-0101-10", "name": "Cement" },
+        { "number": "21-0049-10", "name": "Auburn" },
+        { "number": "63-0108-10", "name": "Fireball" },
+        { "number": "93-0023-10", "name": "Shadow" },
+        { "number": "90-0106-10", "name": "Fog" },
+        { "number": "90-0141-10", "name": "Dove" }
+      ]
+    },
+    {
+      "title": "Hi-Energy - Womens",
+
+      "description": "\"As seen on screen\", this palette of energetic and somewhat off-kilter colors inspired by the digital world offers a shot of vitamin C so welcome during the winter months.",
+      "secondary_description": "Orange, in a variety of shades contrasted with a deep blue, purple, mauve and chemical green.",
+      "img": "/images/trends/fallwinter-2021/hi_energy_women.jpg",
+      "colors": [
+        { "number": "79-0091-10", "name": "Andromeda" },
+        { "number": "43-0053-11", "name": "Tiger Lily" },
+        { "number": "42-0086-11", "name": "Nova" },
+        { "number": "40-0044-11", "name": "Corona" },
+        { "number": "49-0061-11", "name": "Apollo" },
+        { "number": "52-0018-11", "name": "Pulsar" },
+        { "number": "70-0135-10", "name": "Orbit" },
+        { "number": "40-0077-11", "name": "Citrus" },
+        { "number": "51-0088-11", "name": "Lilac" },
+        { "number": "40-0087-11", "name": "Solstice" }
+      ]
+    },
+    {
+      "title": "Hi-Energy - Mens",
+
+      "description": "This energising palette will lift spirits in a decade still young enough to engender a sense of optimism. It will give tweeds and knits a shot of vitamin C so welcome during the winter months.",
+      "secondary_description": "A variety of citrus tones offset by deep and teal blue plus brown.",
+      "img": "/images/trends/fallwinter-2021/hi_energy_men.jpg",
+      "colors": [
+        { "number": "79-0053-10", "name": "Altitude" },
+        { "number": "43-0053-11", "name": "Tiger Lily" },
+        { "number": "42-0079-11", "name": "Valencia" },
+        { "number": "32-0022-10", "name": "Orion" },
+        { "number": "22-0096-10", "name": "Tobacco" },
+        { "number": "02-0032-10", "name": "Tawny" },
+        { "number": "40-0044-11", "name": "Corona" },
+        { "number": "40-0014-11", "name": "Solar" },
+        { "number": "42-0086-11", "name": "Nova" },
+        { "number": "74-0043-11", "name": "Cascade" }
+      ]
+    },
+    {
+      "title": "Nocturne - Womens",
+
+      "description": "For those who like to party, this Holiday story has an \"end of the world\" dystopian feel. This mix of color works well for silk and satin, brocade and velvet.",
+      "secondary_description": "Shades of turquoise and magenta contrast with faux blacks.",
+      "img": "/images/trends/fallwinter-2021/nocturne_women.jpg",
+      "colors": [
+        { "number": "72-0059-11", "name": "Orbit" },
+        { "number": "59-0009-11", "name": "Pulsar" },
+        { "number": "10-0133-10", "name": "Dove" },
+        { "number": "70-0122-10", "name": "Heaven" },
+        { "number": "93-0037-10", "name": "Eclipse" },
+        { "number": "50-0107-11", "name": "Zodiac" },
+        { "number": "79-0027-10", "name": "Pisces" },
+        { "number": "90-0100-10", "name": "Fog" },
+        { "number": "73-0088-10", "name": "Blue Jay" },
+        { "number": "74-0060-11", "name": "Cascade" }
+      ]
+    },
+    {
+      "title": "Nocturne - Mens",
+
+      "description": "After seasons of staying home and cocooning, there is a desire to go out and about once again. This Holiday palette of turquoise, blue and magenta has a dystopian edge that reflects the current end of the world mood.",
+      "secondary_description": "Faux black shades associate with chemical shades of pink, turquoise and teal.",
+      "img": "/images/trends/fallwinter-2021/nocturne_men.jpg",
+      "colors": [
+        { "number": "70-0122-10", "name": "Heaven" },
+        { "number": "59-0009-11", "name": "Pulsar" },
+        { "number": "59-0061-11", "name": "Ultraviolet" },
+        { "number": "72-0059-11", "name": "Orbit" },
+        { "number": "73-0088-10", "name": "Blue Jay" },
+        { "number": "89-0074-10", "name": "Apogee   " },
+        { "number": "74-0060-11", "name": "Cascade" },
+        { "number": "10-0133-10", "name": "Dove" },
+        { "number": "93-0037-10", "name": "Eclipse" },
+        { "number": "79-0027-10", "name": "Pisces" }
+      ]
+    }
+  ],
+  "hero-2020": [
+    {
+      "title": "2020 Hero Color by Sophicolor",
+      "description": "70-0074-10 Heaven - from the Celestial Collection is the Sophicolor 2020 Hero Color Of The Year. First highlighted as part of our trend forecast for Spring/Summer 2020 in the Riviera palettes, the importance of this sky blue turquoise was confirmed as a key color by many of the recent runway collections for both men and women. It's versatile enough to work as a total look, in combination with other blue tones or with contrasting colors for print mixing, in both apparel and accessories.",
+      "img": "/images/trends/hero-2020/cover.jpg"
+    },
+    {
+      "title": "Total Look",
+      "description": "As seen on the runways of New York and Europe for Spring/Summer 2020, bold brights have started to replace neons as a key color message. Designers selected this color for a striking head-to-toe total look that works for a variety of sportswear styles.",
+      "img": "/images/trends/hero-2020/page1.jpg",
+      "colors": [{ "number": "70-0074-10", "name": "Heaven" }]
+    },
+    {
+      "title": "Accessories",
+      "description": "This sky blue turquoise also works for footwear and accessories, either as a solid color or combined with a deeper blue. Directional designers showed blue hair on the Spring/Summer 2020 runways!",
+      "img": "/images/trends/hero-2020/accessories.jpg",
+      "colors": [
+        { "number": "70-0074-10", "name": "Heaven" },
+        { "number": "79-0074-10", "name": "Gemini" }
+      ]
+    },
+    {
+      "title": "Color Combinations",
+
+      "description": "Sky blue turquoise works well when combined with deeper blue, navy and white. Add a touch of lavender for a floral print as seen at Balenciaga.",
+      "img": "/images/trends/hero-2020/blue_combo.jpg",
+      "colors": [
+        { "number": "70-0074-10", "name": "Heaven" },
+        { "number": "73-0092-10", "name": "Blue Jay" },
+        { "number": "00-0002-10", "name": "Snow" },
+        { "number": "79-0074-10", "name": "Gemini " },
+        { "number": "70-0046-10", "name": "Chiron" },
+        { "number": "50-0032-11", "name": "Lavender" }
+      ]
+    },
+    {
+      "title": "Print Mixes",
+
+      "descriptin": "2020 will be a strong year for prints. Sky blue turquoise, use in combination with orange, yellow and pale green, works well for a wide variety of prints and patterns, including florals, checks, abstract and scarf prints.",
+      "img": "/images/trends/hero-2020/prints.jpg",
+      "colors": [
+        { "number": "70-0074-10", "name": "Heaven" },
+        { "number": "42-0050-11", "name": "Valencia" },
+        { "number": "49-0063-11", "name": "Asteroid" },
+        { "number": "80-0067-10", "name": "Alien " },
+        { "number": "00-0013-10", "name": "Snow" },
+        { "number": "71-0061-10", "name": "Blue Jay " },
+        { "number": "31-0108-10", "name": "Sunflower" },
+        { "number": "82-0152-10", "name": "Pasture" }
+      ]
+    }
+  ],
+  "spring-summer-2021": [
+    {
+      "title": "Stone Love",
+      "description": "For Spring/Summer 2021 inspiration comes from gems and crystals. Their powerful and healing properties enhance our daily lives and protect us against outside discord. Following on from the previous season, inspired by nature, neutral tones are enhanced and sophisticated. On the other hand, jewel tones mimic the kind of bright colors seen digitally.",
+      "img": "/images/trends/spring-summer-2021/cover.jpg"
+    },
+    {
+      "title": "Rose Quartz - Womens",
+      "img": "/images/trends/spring-summer-2021/rose-quartz-womens.jpg",
+      "description": "This palette of elevated neutrals is inspired by rose quartz, a pink version of crystal quartz, known as the stone of universal love. ",
+      "secondary_description": "Pink neutrals are grounded by navy blue and popped with sunflower yellow and yellow-toned green ",
+      "colors": [
+        { "number": "40-0019-11", "name": "Peaches" },
+        { "number": "31-0098-10", "name": "Sunflower" },
+        { "number": "13-0036-10", "name": "Sandstone" },
+        { "number": "81-0011-12", "name": "Banana Leaf" },
+        { "number": "20-0118-10", "name": "Onyx" },
+        { "number": "61-0185-10", "name": "Sweet Pea " },
+        { "number": "61-0165-10", "name": "Serenity" },
+        { "number": "40-0084-11", "name": "Solstice" },
+        { "number": "40-0025-11", "name": "Solar" },
+        { "number": "51-0007-11", "name": "Peony " }
+      ]
+    },
+
+    {
+      "title": "Rose Quartz - Mens",
+      "img": "/images/trends/spring-summer-2021/rose-quartz-mens.jpg",
+      "description": "Our love of nature and concern for the planet continues to influence our color choices. Rose quartz is known as the stone of universal love and inspires a color story of elevated pink toned neutrals. ",
+      "secondary_description": "A variety of pink neutrals are mixed with brown and beige tones and popped with purple. ",
+      "colors": [
+        { "number": "51-0007-11", "name": "Peony" },
+        { "number": "40-0025-11", "name": "Solar" },
+        { "number": "11-0074-10", "name": "Adobe" },
+        { "number": "61-0015-10", "name": "Hibiscus " },
+        { "number": "61-0142-10", "name": "Sweet Pea" },
+        { "number": "61-0165-10", "name": "Serenity" },
+        { "number": "13-0036-10", "name": "Sandstone" },
+        { "number": "61-0028-10", "name": "Peaches" },
+        { "number": "60-0089-10", "name": "Nebula" },
+        { "number": "51-0076-11", "name": "Quasar " }
+      ]
+    },
+    {
+      "title": "Jade - Womens ",
+      "img": "/images/trends/spring-summer-2021/jade-womens.jpg",
+      "description": "Green symbolizes Planet Earth and Mother Nature and accordingly has become popular as a fashion color. Jade comes in a variety of colors but is most popular in shades of bright to light green. It carries a sweet, light energy that can feel very healing. ",
+      "secondary_description": "A series of green shades popped with cream, amethyst, tangerine, orchid and garnet. ",
+      "colors": [
+        { "number": "89-0013-11", "name": "Boxwood" },
+        { "number": "81-0051-10", "name": "Equinox " },
+        { "number": "82-0112-10", "name": "Virgo" },
+        { "number": "50-0089-11", "name": "Ultraviolet" },
+        { "number": "02-0020-10", "name": "Tawny" },
+        { "number": "42-0033-11", "name": "Corona " },
+        { "number": "82-0094-10", "name": "Aquarius" },
+        { "number": "51-0037-11", "name": "Orchid " },
+        { "number": "64-0017-10", "name": "Geranium" },
+        { "number": "72-0064-11", "name": "Orbit " }
+      ]
+    },
+    {
+      "title": "Jade - Mens ",
+      "img": "/images/trends/spring-summer-2021/jade-mens.jpg",
+      "description": "Symbolizing nature, green continues to be a featured color. Jade comes in a variety of colors but is most popular in shades of bright to light green. It carries a sweet, light energy that can feel very healing. ",
+      "secondary_description": "Green shades come into focus and are mixed with grey and blue tones. ",
+      "colors": [
+        { "number": "89-0013-11", "name": "Boxwood" },
+        { "number": "81-0051-10", "name": "Equinox " },
+        { "number": "82-0112-10", "name": "Virgo" },
+        { "number": "70-0073-10", "name": "Chiron " },
+        { "number": "90-0124-10", "name": "Fog" },
+        { "number": "72-0064-10", "name": "Orbit " },
+        { "number": "82-0090-10", "name": "Jungle" },
+        { "number": "71-0067-10", "name": "Blue Jay " },
+        { "number": "11-0024 10", "name": "Lichen" },
+        { "number": "82-0094-10", "name": "Aquarius " }
+      ]
+    },
+    {
+      "title": "Carnelian - Womens ",
+      "img": "/images/trends/spring-summer-2021/carnelian-womens.jpg",
+      "description": "Carnelian is a semi-precious gemstone used to promote motivation, endurance and courage. Its brownish-orange color provides a perfect base for a luxurious take on new neutrals. ",
+      "secondary_description": "A mix of oranges and deep reds. Add a pop of grey blue for contrast.",
+      "colors": [
+        { "number": "43-0033-11", "name": "Nasturtium" },
+        { "number": "70-0070-10", "name": "Chiron " },
+        { "number": "43-0006-11", "name": "Valencia" },
+        { "number": "65-0021-10", "name": "Begonia " },
+        { "number": "43-0008-11", "name": "Gerber Daisy" },
+        { "number": "02-0001-11", "name": "Tawny " },
+        { "number": "51-0090-11", "name": "Peony" },
+        { "number": "20-0077-10", "name": "Onyx " },
+        { "number": "52-0060-11", "name": "Aubergine" },
+        { "number": "43-0018-11", "name": "Tiger Lily " }
+      ]
+    },
+    {
+      "title": "Carnelian - Mens",
+      "img": "/images/trends/spring-summer-2021/carnelian-mens.jpg",
+      "description": "A brownish-orange color, Carnelian is a semi-precious gemstone used to promote motivation and endurance, leadership and courage. It inspires a palette of elevated neutrals. ",
+      "secondary_description": "A series of rusty orange tones mix with blue-grey and sea foam green. ",
+      "colors": [
+        { "number": "43-0033-11", "name": "Nasturtium" },
+        { "number": "70-0070-10", "name": "Chiron " },
+        { "number": "43-0006-11", "name": "Valencia" },
+        { "number": "82-0107-10", "name": "Hosta" },
+        { "number": "32-0035-10", "name": "Goldenrod" },
+        { "number": "65-0021-10", "name": "Begonia " },
+        { "number": "43-0018-11", "name": "Tiger Lily" },
+        { "number": "02-0001-11", "name": "Tawny " },
+        { "number": "43-0008-11", "name": "Gerber Daisy" },
+        { "number": "20-0034-10", "name": "Copper " }
+      ]
+    },
+    {
+      "title": "Sapphire - Womens ",
+      "img": "/images/trends/spring-summer-2021/sapphires-womens.jpg",
+      "description": "Sapphire is most commonly associated with a bright and saturated blue hue. However, this precious gemstone actually comes in a variety of bright colors including pink, yellow, orange and violet. Sapphire can assist in personal and spiritual growth.",
+      "secondary_description": "Jewel-toned brights including pink, blue and magenta mix with turquoise and acid yellow/green; deep blue and purple round out the story.  ",
+      "colors": [
+        { "number": "39-0041-10", "name": "Perigee" },
+        { "number": "75-0083-11", "name": "Lunar " },
+        { "number": "59-0011-11", "name": "Pulsar" },
+        { "number": "79-0074-10", "name": "Gemini" },
+        { "number": "62-0045-10", "name": "Mars" },
+        { "number": "42-0017-11", "name": "Orion" },
+        { "number": "61-0042-10", "name": "Quantum" },
+        { "number": "73-0084-10", "name": "Indigo" },
+        { "number": "40-0012-11", "name": "Solar" },
+        { "number": "51-0069-11", "name": "Gamma Ray " }
+      ]
+    },
+    {
+      "title": "Sapphire - Mens",
+      "img": "/images/trends/spring-summer-2021/sapphires-mens.jpg",
+      "description": "Thought to assist with spiritual healing and truth, sapphire is associated with a saturated blue hue but comes in other bright colors including pink, yellow, orange and violet. ",
+      "secondary_description": " a variety of jewel-toned brights mix with navy and turquoise blue. ",
+      "colors": [
+        { "number": "39-0041-10", "name": "Perigee" },
+        { "number": "79-0074-10", "name": "Gemini" },
+        { "number": "59-0011-11", "name": "Pulsar" },
+        { "number": "62-0045-10", "name": "Mars" },
+        { "number": "42-0017-11", "name": "Orion" },
+        { "number": "73-0084-10", "name": "Indigo" },
+        { "number": "89-0103-10", "name": "Kale" },
+        { "number": "59-0043-11", "name": "Pluto" },
+        { "number": "61-0042-10", "name": "Quantum" },
+        { "number": "75-0083-11", "name": "Lunar " }
+      ]
+    }
+  ],
+  "fall-winter-2020": [
+    {
+      "title": "A Twist On Tradition",
+      "description": "In uncertain times it's comforting to delve into the past, but at the dawn of a new decade, there's a desire to look forward and embrace the future. By taking traditional color palettes, prints and styles and re-working them with a modern twist, we can achieve both.",
+      "img": "/images/trends/fallwinter-2020/cover.jpg"
+    },
+    {
+      "title": "Core Values - Womens",
+      "description": "As our connection to nature continues, natural tones become elevated and this palette of nuanced neutrals has a sophisticated edge. Brown plays a strong role for the season adopting a new identity as a fashion color. ",
+      "secondary_description": "Green, brown and ochre tinged neutrals are grounded by almond and chocolate brown ",
+      "img": "/images/trends/fallwinter-2020/core-values-w.jpg",
+      "colors": [
+        { "number": "22-0030-10", "name": "Khaki" },
+        { "number": "83-0054-10", "name": "Lemongrass" },
+        { "number": "20-0050-10", "name": "Chocolate" },
+        { "number": "13-0042-10", "name": "Adobe" },
+        { "number": "10-0083-10", "name": "Almond" },
+        { "number": "61-0183-10", "name": "Peaches" },
+        { "number": "43-0015-11", "name": "Tiger Lily" },
+        { "number": "83-0060-10", "name": "Kiwi" },
+        { "number": "32-0049-10", "name": "Pollen" },
+        { "number": "32-0047-10", "name": "Goldenrod" }
+      ]
+    },
+    {
+      "title": "Core Values - Mens",
+      "description": "Our connection to nature continues to grow stronger. Neutral tones are growing in importance as fashion colors and become more sophisticated as a result. ",
+      "secondary_description": "Colored neutral tones of ochre, grey and green are anchored by buttery ecru and chocolate brown. ",
+      "img": "/images/trends/fallwinter-2020/core-values-m.jpg",
+      "colors": [
+        { "number": "13-0066-10", "name": "Adobe" },
+        { "number": "20-0050-10", "name": "Chocolate" },
+        { "number": "61-0183-10", "name": "Peaches" },
+        { "number": "13-0115-10", "name": "Deep Olive" },
+        { "number": "32-0047-10", "name": "Goldenrod" },
+        { "number": "90-0134-10", "name": "Steel" },
+        { "number": "10-0083-10", "name": "Almond" },
+        { "number": "84-0029-10", "name": "Moss" },
+        { "number": "83-0179-10", "name": "Wild Olive" },
+        { "number": "11-0140-10", "name": "Khaki" }
+      ]
+    },
+    {
+      "title": "Neo-Punk - Womens",
+      "description": "The current age of protest is influenced by the punk aesthetic of the late seventies and the work of Vivienne Westwood. Westwood revamped traditional elements of British society such as tartan patterns in order to utilize them as symbols of anti-establishment and subversion. Today, recolored animal prints are a mainstay of youthful streetwear. ",
+      "secondary_description": "Bright and deep red, royal blue and black are key colors, mixed with greyed neutrals, olive drab, ochre and forest green. ",
+      "img": "/images/trends/fallwinter-2020/neo-punk-w.jpg",
+      "colors": [
+        { "number": "69-0040-10", "name": "Zenith" },
+        { "number": "79-0082-10", "name": "Andromeda" },
+        { "number": "83-0082-10", "name": "Wild Olive" },
+        { "number": "10-0102-10", "name": "Cream Beige" },
+        { "number": "93-0054-10", "name": "Onyx" },
+        { "number": "71-0168-10", "name": "Blue Jay" },
+        { "number": "11-0062-10", "name": "Smoke" },
+        { "number": "63-0086-10", "name": "Fireball" },
+        { "number": "74-0065-11", "name": "Spruce" },
+        { "number": "32-0046-10", "name": "Goldenrod" }
+      ]
+    },
+    {
+      "title": "Neo-Punk - Mens",
+      "description": "This preppy meets punk story harks back to the late seventies, but is equally informed by today's era of protest. It heralds the work of Vivienne Westwood and in particular her reworking of traditional British iconography, which became symbolic of youthful subversion. Patchworks of prints and patterns including checks and recolored animal prints are important elements of current street styling. ",
+      "secondary_description": "Classic shades of bright red, royal blue and forest green are given a contemporary edge when matched to black and ecru. ",
+      "img": "/images/trends/fallwinter-2020/neo-punk-m.jpg",
+      "colors": [
+        { "number": "93-0054-10", "name": "Onyx" },
+        { "number": "69-0040-10", "name": "Zenith" },
+        { "number": "82-0005-12", "name": "Kale" },
+        { "number": "79-0082-10", "name": "Andromeda" },
+        { "number": "10-0102-10", "name": "Cream Beige" },
+        { "number": "93-0002-10", "name": "Eclipse" },
+        { "number": "74-0065-11", "name": "Spruce" },
+        { "number": "70-0060-10", "name": "Astral" },
+        { "number": "63-0086-10", "name": "Fireball" },
+        { "number": "11-0062-10", "name": "Smoke" }
+      ]
+    },
+    {
+      "title": "Flame - Womens",
+      "description": "Inspired by fire and ice, a spirit of decadence invades this vibrant palette. Peach, orange and red-tinted hues worked back to pale lilac and sea-foam offer a splash of summer in winter. Colors clash but in a refined and glamorous way. ",
+      "secondary_description": "Bright and toasted orange and brown shades are offset by light and mid-toned sea-foam and tints of grey and lavender.  ",
+      "img": "/images/trends/fallwinter-2020/flame-w.jpg",
+      "colors": [
+        { "number": "43-0020-11", "name": "Nasturtium" },
+        { "number": "51-0085-11", "name": "Lavender" },
+        { "number": "43-0059-11", "name": "Tiger Lily" },
+        { "number": "64-0037-10", "name": "Geranium" },
+        { "number": "42-0085-11", "name": "Valencia" },
+        { "number": "72-0126-11", "name": "Bluegrass" },
+        { "number": "23-0032-10", "name": "Chocolate" },
+        { "number": "49-0054-11", "name": "Asteroid" },
+        { "number": "75-0048-11", "name": "Hosta" },
+        { "number": "90-0147-10", "name": "Fog" }
+      ]
+    },
+    {
+      "title": "Flame - Mens",
+      "description": "Men's streetwear evolves to become ever more sophisticated and luxurious. It thus succeeds in pervading all categories of menswear, influencing both coloring and styling. Orange in all of its permutations continues to resonate. ",
+      "secondary_description": "Orange shades are offset by charcoal and silver grey, plus oxblood and dark brown. ",
+      "img": "/images/trends/fallwinter-2020/flame-m.jpg",
+      "colors": [
+        { "number": "90-0135-10", "name": "Fog" },
+        { "number": "40-0020-11", "name": "Peaches" },
+        { "number": "43-0020-11", "name": "Nasturtium" },
+        { "number": "43-0059-11", "name": "Tiger Lily" },
+        { "number": "91-0063-10", "name": "Silver" },
+        { "number": "42-0085-11", "name": "Valencia" },
+        { "number": "49-0054-11", "name": "Asteroid" },
+        { "number": "93-0046-10", "name": "Charcoal" },
+        { "number": "64-0038-10", "name": "Geranium" },
+        { "number": "23-0032-10", "name": "Chocolate" }
+      ]
+    },
+    {
+      "title": "Hygge - Womens",
+      "description": "With its timeless style aesthetic and its happy, healthy, lifestyle known as hygge, we look to the Scandinavian countries for inspiration. Colors with a retro feel are associated with tones reminiscent of the farms, fields and fjords of Norway, Sweden and Denmark. ",
+      "secondary_description": "Foamy pale pastels mix with mid-toned greens, blues and pinks, which are grounded by a sandy neutral and moss green. ",
+      "img": "/images/trends/fallwinter-2020/hygge-w.jpg",
+      "colors": [
+        { "number": "11-0039-10", "name": "Fog" },
+        { "number": "80-0143-10", "name": "Spiral" },
+        { "number": "61-0124-10", "name": "Quantum" },
+        { "number": "83-0115-10", "name": "Kiwi)" },
+        { "number": "30-0045-10", "name": "Venus" },
+        { "number": "84-0020-10", "name": "Moss" },
+        { "number": "81-0081-10", "name": "Lemongrass" },
+        { "number": "71-0061-10", "name": "Blue Jay" },
+        { "number": "13-0005-10", "name": "Sand" },
+        { "number": "32-0024-10", "name": "Pollen" }
+      ]
+    },
+    {
+      "title": "Hygge - Mens",
+      "description": "'Hygge' is the Danish word for a cozy, happy way of life. In a world of polarizing politics, climate change deniers and conspiracy theorists, it's no wonder that the idea of a gentler lifestyle holds great appeal. This Scandinavian-inspired palette is filled with colors influenced by nature, including mineral tones of blue and green. ",
+      "secondary_description": "rich blue, green and ochre tones popped grey and khaki mid-tones and an acid shade of green. ",
+      "img": "/images/trends/fallwinter-2020/hygge-m.jpg",
+      "colors": [
+        { "number": "79-0075-10", "name": "Lupine" },
+        { "number": "84-0020-10", "name": "Moss" },
+        { "number": "31-0048-10", "name": "Pollen" },
+        { "number": "61-0124-10", "name": "Quantum" },
+        { "number": "83-0115-10", "name": "Kiwi" },
+        { "number": "81-0081-10", "name": "Lemongrass" },
+        { "number": "20-0129-10", "name": "Bayleaf" },
+        { "number": "71-0061-10", "name": "Blue Jay" },
+        { "number": "13-0005-10", "name": "Sand" },
+        { "number": "90-0079-10", "name": "Smoke" }
+      ]
+    }
+  ],
+  "spring-summer-2020": [
+    {
+      "title": "In Living Color",
+      "description": "Whether at home or away, the colors that surround us as we go about our daily lives influence the spring/summer 2020 palettes. Inspiration comes from the city streets, beautiful urban architecture, the sights and sounds of the countryside and the glamorous beaches of the grand European resorts.",
+      "img": "/images/trends/spring-summer-2020/2020_COVER2.jpg"
+    },
+    {
+      "title": "Au Naturel - Womens",
+      "secondary_description": "A series of yellow toned naturals plus emerald, fern and kale green are offset by brown and bisque.",
+      "description": "With shrinking forests, endangered species and climate change, the precious quality of the natural world continues to influence our color choices. This palette is inspired by the countryside, where a bright green the color of grass is key. There is also a focus on snakeskin patterns in both natural and colored tones",
+      "img": "/images/trends/spring-summer-2020/1AU_NATUREL__WOMENS.jpg",
+      "colors": [
+        {
+          "number": "81-0005-12",
+          "name": "Ivy"
+        },
+
+        {
+          "number": "22-0008-10",
+          "name": "Sienna"
+        },
+
+        {
+          "number": "21-0036-10",
+          "name": "Auburn"
+        },
+
+        {
+          "number": "82-0136-10",
+          "name": "Kale"
+        },
+
+        {
+          "number": "23-0013-10",
+          "name": "Brunette"
+        },
+
+        {
+          "number": "32-0037-10",
+          "name": "Goldenrod"
+        },
+
+        {
+          "number": "11-0149-10",
+          "name": "Sandstone"
+        },
+
+        {
+          "number": "10-0027-10",
+          "name": "Bisque"
+        },
+
+        {
+          "number": "81-0088-10",
+          "name": "Fern"
+        },
+
+        {
+          "number": "11-0137-10",
+          "name": "Sand"
+        }
+      ]
+    },
+    {
+      "title": "Au Naturel - Mens",
+      "secondary_description": "Greyed and yellowed neutrals form the basis of the palette popped by emerald green and goldenrod.",
+      "description": "The precious quality of the natural world continues to influence our color choices. Softly colored neutral tones create the basis of the palette to use either as solid colors or for this season's all-important botanical and animal prints.",
+      "img": "/images/trends/spring-summer-2020/2AU_NATUREL_MENS.jpg",
+      "colors": [
+        {
+          "number": "81-0005-12",
+          "name": "Ivy"
+        },
+
+        {
+          "number": "32-0037-10",
+          "name": "Goldenrod"
+        },
+
+        {
+          "number": "23-0013-10",
+          "name": "Brunette"
+        },
+
+        {
+          "number": "82-0136-10",
+          "name": "Kale"
+        },
+
+        {
+          "number": "83-0114-10",
+          "name": "Kiwi"
+        },
+
+        {
+          "number": "11-0149-10",
+          "name": "Sandstone"
+        },
+
+        {
+          "number": "22-0008-10",
+          "name": "Sienna"
+        },
+
+        {
+          "number": "10-0027-10",
+          "name": "Bisque"
+        },
+
+        {
+          "number": "83-0166-10",
+          "name": "Fern"
+        },
+
+        {
+          "number": "11-0137-10",
+          "name": "Sand"
+        }
+      ]
+    },
+    {
+      "title": "Riviera - Womens",
+      "secondary_description": "Three shades of whitened blue mix with sophisticated pale tones of blue, grey, pink and peach; nude, tobacco brown and ivory are popped with a pinky red.",
+      "description": "Past and present, the grand European resorts of France and Italy with their soft sandy beaches, bright blue skies and glamorous architecture inspire this palette.",
+      "img": "/images/trends/spring-summer-2020/3RIVIERA_WOMENS.jpg",
+      "colors": [
+        {
+          "number": "90-0082-10",
+          "name": "Smoke"
+        },
+
+        {
+          "number": "40-0101-11",
+          "name": "Solstice"
+        },
+
+        {
+          "number": "75-0066-11",
+          "name": "Aires"
+        },
+
+        {
+          "number": "60-0092-10",
+          "name": "Ellipse"
+        },
+
+        {
+          "number": "62-0045-10",
+          "name": "Mars"
+        },
+
+        {
+          "number": "00-0002-10",
+          "name": "Snow"
+        },
+
+        {
+          "number": "22-0040-10",
+          "name": "Tobacco"
+        },
+
+        {
+          "number": "70-0074-10",
+          "name": "Heaven"
+        },
+
+        {
+          "number": "70-0046-10",
+          "name": "Chiron"
+        },
+
+        {
+          "number": "11-0086-10",
+          "name": "Cream Beige"
+        }
+      ]
+    },
+    {
+      "title": "Riviera - Mens",
+      "secondary_description": "Blue dominates, with several shades from bright and light to saturated tones. Greyed neutrals work for summer suiting and pastels, particularly pink, for casual wear.",
+      "description": "Past and present, the grand European resorts of France and Italy with their soft sandy beaches, bright blue skies and impeccably dressed guests inspire this palette.",
+      "img": "/images/trends/spring-summer-2020/4RIVIERA_WOMENS.jpg",
+      "colors": [
+        {
+          "number": "90-0082-10",
+          "name": "Smoke"
+        },
+
+        {
+          "number": "40-0101-11",
+          "name": "Solstice"
+        },
+
+        {
+          "number": "11-0037-10",
+          "name": "Fog"
+        },
+
+        {
+          "number": "60-0092-10",
+          "name": "Ellipse"
+        },
+
+        {
+          "number": "70-0074-10",
+          "name": "Heaven"
+        },
+
+        {
+          "number": "70-0046-10",
+          "name": "Chiron"
+        },
+
+        {
+          "number": "32-0025-10",
+          "name": "Perigee"
+        },
+
+        {
+          "number": "71-0158-10",
+          "name": "Moonscape"
+        },
+
+        {
+          "number": "61-0069-10",
+          "name": "Tea Rose "
+        },
+
+        {
+          "number": "11-0086-10",
+          "name": "Cream Beige"
+        }
+      ]
+    },
+    {
+      "title": "Modernist - Womens",
+      "secondary_description": "Woody notes of orange, brown, red and cranberry contrast with faux black, ivory, cream beige and pearl grey.",
+      "description": "Harking back to the Mid-Century Modern design of the last century, with its clean lines, organic shapes and good use of wood and steel inspires a sophisticated palette for tailored dressing",
+      "img": "/images/trends/spring-summer-2020/5MODERNIST_WOMENS.jpg",
+      "colors": [
+        {
+          "number": "42-0139-11",
+          "name": "Nova"
+        },
+
+        {
+          "number": "42-0089-11",
+          "name": "Nova"
+        },
+
+        {
+          "number": "32-0048-10",
+          "name": "Goldenrod"
+        },
+
+        {
+          "number": "13-0040-10",
+          "name": "Adobe"
+        },
+
+        {
+          "number": "43-0039-11",
+          "name": "Tomato"
+        },
+
+        {
+          "number": "02-0041-10",
+          "name": "Cream Beige"
+        },
+
+        {
+          "number": "63-0096-10",
+          "name": "Foxglove"
+        },
+
+        {
+          "number": "10-0143-10",
+          "name": "Fog"
+        },
+
+        {
+          "number": "20-0149-10",
+          "name": "Charcoal"
+        },
+
+        {
+          "number": "01-0004-10",
+          "name": "Ivory"
+        }
+      ]
+    },
+    {
+      "title": "Modernist - Mens",
+      "secondary_description": "Polished browns, burnt orange and blue greys reflect the wood and steel of mid-century design; popped with two shades of dusty red.",
+      "description": "The middle of the twentieth century was a golden age for architecture when Frank Lloyd Wright and others believed in designing structures that were in harmony with humanity and its environment. They were the early adopters of sustainable practices and made good use of wood and steel.",
+      "img": "/images/trends/spring-summer-2020/6MODERNIST_MENS.jpg",
+      "colors": [
+        {
+          "number": "32-0048-10",
+          "name": "Goldenrod"
+        },
+        {
+          "number": "42-0089-11",
+          "name": "Nova"
+        },
+
+        {
+          "number": "61-0045-10",
+          "name": "Sweet Pea"
+        },
+
+        {
+          "number": "43-0039-11",
+          "name": "Tomato"
+        },
+
+        {
+          "number": "21-0020-10",
+          "name": "Copper"
+        },
+
+        {
+          "number": "02-0041-10",
+          "name": "Cream Beige"
+        },
+
+        {
+          "number": "91-0135-10",
+          "name": "Lichen"
+        },
+
+        {
+          "number": "71-0074-10",
+          "name": "Blue Jay"
+        },
+
+        {
+          "number": "22-0037-10",
+          "name": "Tobacco"
+        },
+
+        {
+          "number": "13-0040-10",
+          "name": "Adobe"
+        }
+      ]
+    },
+    {
+      "title": "Athleisure - Womens",
+      "secondary_description": "A group of blues that range from mid-toned and turquoise to cobalt and navy are grounded by dark red and ivory and highlighted with two ultra-brights: orange and lime.",
+      "description": "The trend for clothes that blur the lines between activewear and sportswear continues to grow - all the while becoming more sophisticated.",
+      "img": "/images/trends/spring-summer-2020/7ATHLEISURE_WOMENS.jpg",
+      "colors": [
+        {
+          "number": "70-0083-10",
+          "name": "Altitude"
+        },
+        {
+          "number": "64-0012-10",
+          "name": "Fireball"
+        },
+
+        {
+          "number": "00-0023-10",
+          "name": "Ivory"
+        },
+
+        {
+          "number": "74-0040-11",
+          "name": "Galileo"
+        },
+
+        {
+          "number": "79-0088-10",
+          "name": "Andromeda"
+        },
+
+        {
+          "number": "49-0053-11",
+          "name": "Meteor"
+        },
+
+        {
+          "number": "72-0055-11",
+          "name": "Orbit"
+        },
+
+        {
+          "number": "72-0079-11",
+          "name": "Agave"
+        },
+
+        {
+          "number": "73-0012-10",
+          "name": "Cascade"
+        },
+
+        {
+          "number": "81-0009-11",
+          "name": "Alien"
+        }
+      ]
+    },
+    {
+      "title": "Athleisure - Mens",
+      "secondary_description": "Neon brights including cobalt, scarlet, emerald and lemon drop are offset by shades of blue and turquoise and grounded by navy and ivory.",
+      "description": "Due to the influence of designers such as Alessandro Michele, Virgil Abloh and Demna Gvasalia the desire for athleisure wear is strong. This palette reflects that trend.",
+      "img": "/images/trends/spring-summer-2020/8ATHLEISURE_MENS.jpg",
+      "colors": [
+        {
+          "number": "00-0023-10",
+          "name": "Ivory"
+        },
+        {
+          "number": "63-0004-15",
+          "name": "Envy Red"
+        },
+        {
+          "number": "79-0002-15",
+          "name": "Sapphire"
+        },
+        {
+          "number": "84-0010-15",
+          "name": "Neon Emerald"
+        },
+        {
+          "number": "49-0004-15",
+          "name": "Hot Scarlet"
+        },
+        {
+          "number": "70-0083-10",
+          "name": "Altitude"
+        },
+        {
+          "number": "79-0088-10",
+          "name": "Andromeda"
+        },
+        {
+          "number": "30-0003-15",
+          "name": "Lemon Drop"
+        },
+        {
+          "number": "73-0012-10",
+          "name": "Cascade"
+        },
+        {
+          "number": "72-0055-11",
+          "name": "Orbit"
+        }
+      ]
+    }
+  ],
+  "fall-winter-2019": [
+    {
+      "title": "Only Connect | Fall / Winter 2019",
+      "img": "/images/trends/fallwinter-2019-cover.jpg",
+      "description": "There’s a societal shift toward self-awareness and a strong desire to connect with our authentic selves. As a powerful tool in the pursuit of self-expression, color assumes a new importance. Consumers use color to signal powerful messages about themselves. "
+    },
+    {
+      "title": "Reflection Women",
+      "img": "/images/trends/reflection-women.jpg",
+      "secondary_description": "Classic autumnal tones, the color of fall leaves, burnt orange and red, goldenrod, ruddy brown and chestnut are joined by a vibrant pop of jade green.",
+      "description": "As the trees turn from green to red, gold, orange and brown, we acknowledge the arrival of the fall season. These classic colors connect us to nature and provide a sense of comfort and wellbeing. ",
+      "colors": [
+        { "number": "84-0067-10", "name": "Boxwood" },
+        { "number": "40-0071-11", "name": "Nova" },
+        { "number": "43-0042-11", "name": "Nasturtium" },
+        { "number": "20-0023-10", "name": "Adobe" },
+        { "number": "82-0065-10", "name": "Neptune" },
+        { "number": "93-0043-10", "name": "Eclipse" },
+        { "number": "32-0040-10", "name": "Goldenrod" },
+        { "number": "90-0010-10", "name": "Bisque" },
+        { "number": "23-0089-10", "name": "Chestnut" },
+        { "number": "22-0007-10", "name": "Sandstone" }
+      ]
+    },
+    {
+      "title": "Reflection Men",
+      "img": "/images/trends/reflection-men.jpg",
+      "description": "While we look forward to the new season, it’s also a time for reflection. A palette of classic autumnal tones gives emphasis to this mellow mood.",
+      "secondary_description": "Classic autumnal tones, the color of fall leaves including burnt orange, goldenrod, ruddy brown, chestnut and umber with dark green.",
+      "colors": [
+        { "number": "84-0067-10", "name": "Boxwood" },
+        { "number": "40-0071-11", "name": "Nova" },
+        { "number": "32-0040-10", "name": "Goldenrod" },
+        { "number": "90-0010-10", "name": "Bisque" },
+        { "number": "82-0158-10", "name": "Aquarius" },
+        { "number": "22-0007-10", "name": "Sandstone" },
+        { "number": "13-0037-10", "name": "Sienna" },
+        { "number": "23-0089-10", "name": "Chestnut" },
+        { "number": "12-0105-10", "name": "Peat" },
+        { "number": "21-0071-10", "name": "Sepia" }
+      ]
+    },
+    {
+      "title": "Cocoon Women",
+      "img": "/images/trends/cocoon-women.jpg",
+      "description": "Our desire to feel protected, whether literally or metaphorically, is stronger than ever. Wrapped up in sweater knits or faux furs we feel cocooned and somewhat safe. ",
+      "secondary_description": "A trio of yellow hues adds warmth to cooler tones of navy, black and grey; add a pop of vibrant blue.",
+      "colors": [
+        { "number": "39-0057-10", "name": "Perigee" },
+        { "number": "32-0038-10", "name": "Orion" },
+        { "number": "42-0037-11", "name": "Apollo" },
+        { "number": "01-0017-10", "name": "Antique" },
+        { "number": "73-0083-10", "name": "Andromeda" },
+        { "number": "71-0132-10", "name": "Altitude" },
+        { "number": "13-0139-10", "name": "Lichen" },
+        { "number": "63-0047-10", "name": "Zenith" },
+        { "number": "43-0013-11", "name": "Nova" },
+        { "number": "93-0022-10", "name": "Charcoal" }
+      ]
+    },
+    {
+      "title": "Cocoon Men",
+      "img": "/images/trends/cocoon-men.jpg",
+      "description": "Our desire to feel protected, whether literally or metaphorically, is stronger than ever. Men wrap up for fall in layers or sweater knits with rich patterns and embellishments.",
+      "secondary_description": "A palette grounded in shades of red, orange and umber worked back to a variety of blue tones, from pale to navy.",
+      "colors": [
+        { "number": "43-0013-11", "name": "Nova" },
+        { "number": "73-0083-10", "name": "Andromeda" },
+        { "number": "70-0055-10", "name": "Astral" },
+        { "number": "63-0047-10", "name": "Zenith" },
+        { "number": "93-0022-10", "name": "Charcoal" },
+        { "number": "42-0037-11", "name": "Apollo" },
+        { "number": "64-0010-10", "name": "Fireball" },
+        { "number": "01-0017-10", "name": "Antique" },
+        { "number": "32-0038-10", "name": "Orion" },
+        { "number": "13-0139-10", "name": "Lichen" }
+      ]
+    },
+    {
+      "title": "Exuberance Women",
+      "img": "/images/trends/exhuberance-women.jpg",
+      "description": "A vibrant palette at the intersection of two worlds, the virtual and the real; luminous color for the Instagram generation.",
+      "secondary_description": "Hot and cool pinks and chemical greens associate with burgundy, faux black and ivory.",
+      "colors": [
+        { "number": "65-0041-10", "name": "Plum" },
+        { "number": "82-0056-10", "name": "Kale" },
+        { "number": "61-0109-10", "name": "Fuchsia" },
+        { "number": "02-0012-10", "name": "Almond" },
+        { "number": "51-0009-11", "name": "Lilac" },
+        { "number": "82-0018-10", "name": "Hosta" },
+        { "number": "20-0076-10", "name": "Night" },
+        { "number": "61-0177-10", "name": "Peony" },
+        { "number": "60-0128-10", "name": "Ellipse" },
+        { "number": "63-0109-10", "name": "Begonia" }
+      ]
+    },
+    {
+      "title": "Exuberance Men",
+      "img": "/images/trends/exhuberance-men.jpg",
+      "description": "As gender becomes more fluid, so does color, a vibrant palette at the intersection of two worlds, the virtual and the real; luminous color for the Instagram generation.",
+      "secondary_description": "Chemical tones of pink, red and green are matched to burgundy, charcoal and ivory.",
+      "colors": [
+        { "number": "82-0103-10", "name": "Hosta" },
+        { "number": "61-0109-10", "name": "Fuchsia" },
+        { "number": "65-0041-10", "name": "Plum" },
+        { "number": "02-0021-10", "name": "Almond" },
+        { "number": "60-0126-10", "name": "Ellipse" },
+        { "number": "20-0076-10", "name": "Night" },
+        { "number": "00-0013-10", "name": "Snow" },
+        { "number": "62-0024-10", "name": "Scorpio" },
+        { "number": "60-0036-10", "name": "Jupiter" },
+        { "number": "63-0109-10", "name": "Begonia" }
+      ]
+    },
+    {
+      "title": "Glow Women",
+      "img": "/images/trends/glow-women.jpg",
+      "description": "There is a desire to be heard and neons speak out loud. Worn back to black they work for eveningwear, echoing the colors of the night sky.",
+      "secondary_description": "neons shades of pink, purple, lime and orange contrast with dark navy and black.",
+      "colors": [
+        { "number": "39-0004-15", "name": "Citron" },
+        { "number": "62-0008-15", "name": "Confetti Pink" },
+        { "number": "42-0006-15", "name": "Creamsicle" },
+        { "number": "98-0002-10", "name": "Onyx" },
+        { "number": "51-0005-15", "name": "Purple Kiss" },
+        { "number": "79-0002-15", "name": "Sapphire" },
+        {
+          "number": "54-0005-15",
+          "name": "Midnight Violet"
+        },
+        { "number": "90-0108-10", "name": "Steel" },
+        { "number": "60-0009-15", "name": "Bubblegum" },
+        { "number": "73-0035-10", "name": "Indigo" }
+      ]
+    },
+    {
+      "title": "Glow Men",
+      "img": "/images/trends/glow-men.jpg",
+      "description": "For menswear, neons tones expand beyond the activewear classification to include sweaters and other knits. These are strong colors for those who want to send out a powerful message.",
+      "colors": [
+        { "number": "31-0004-15", "name": "Bright Yellow" },
+        { "number": "90-0108-10", "name": "Steel" },
+        { "number": "42-0006-15", "name": "Creamsicle" },
+        { "number": "73-0035-10", "name": "Indigo" },
+        { "number": "84-0010-15", "name": "neons Emerald" },
+        { "number": "51-0005-15", "name": "Purple Kiss" },
+        { "number": "39-0004-15", "name": "Citron" },
+        { "number": "79-0002-15", "name": "Sapphire" },
+        {
+          "number": "54-0005-15",
+          "name": "Midnight Violet"
+        },
+        { "number": "00-0015-10", "name": "Ivory" }
+      ]
+    }
+  ],
+  "spring-2019": [
+    {
+      "title": "Spring 2019 Color Palettes",
+      "img": "/images/trends/spring-2019-cover.jpg",
+      "description": "Despite the recent political chaos and turmoil caused by ferocious weather patterns, our ability to remain optimistic about the future remains undaunted as we turn towards the light. We bask in the glory of a summer morning and wonder at the majesty of the night’s sky. "
+    },
+    {
+      "title": "Women's Awakening",
+      "img": "/images/trends/Women_Awakening.jpg",
+      "secondary_description": "Natural mid-tones of peach, apricot, wheat and sage are offset by teal and saturated red.",
+      "description": "We celebrate the season; bathing in the healing glow of the sun and the mellow colors of a summer morning.",
+      "colors": [
+        {
+          "name": "Blue Sage",
+          "number": "75-0114-11"
+        },
+        {
+          "name": "Citrus",
+          "number": "42-0020-11"
+        },
+        {
+          "name": "Lilac",
+          "number": "52-0055-11"
+        },
+        {
+          "name": "Sand",
+          "number": "13-0004-10"
+        },
+        {
+          "name": "Bluegrass",
+          "number": "82-0145-10"
+        },
+        {
+          "name": "Tomato",
+          "number": "63-0021-10"
+        },
+        {
+          "name": "Tiger Lily",
+          "number": "43-0003-11"
+        },
+        {
+          "name": "Peaches",
+          "number": "40-0086-11"
+        },
+        {
+          "name": "Fog",
+          "number": "10-0125-10"
+        },
+        {
+          "name": "Iris",
+          "number": "71-0022-10"
+        }
+      ]
+    },
+    {
+      "title": "Men's Awakening",
+      "img": "/images/trends/Men_Awakening.jpg",
+      "description": "We celebrate the season; bathing in the healing glow of the sun and the mellow colors of a summer morning.",
+      "secondary_description": "Natural mid-tones of peach, apricot, wheat and sage are offset by teal and saturated red.",
+      "colors": [
+        {
+          "name": "Blue Sage",
+          "number": "75-0114-11"
+        },
+        {
+          "name": "Citrus",
+          "number": "42-0020-11"
+        },
+        {
+          "name": "Lilac",
+          "number": "52-0055-11"
+        },
+        {
+          "name": "Sand",
+          "number": "13-0004-10"
+        },
+        {
+          "name": "Bluegrass",
+          "number": "82-0145-10"
+        },
+        {
+          "name": "Fireball",
+          "number": "63-0080-10"
+        },
+        {
+          "name": "Tiger Lily",
+          "number": "43-0003-11"
+        },
+        {
+          "name": "Peaches",
+          "number": "40-0086-11"
+        },
+        {
+          "name": "Fog",
+          "number": "10-0125-10"
+        },
+        {
+          "name": "Iris",
+          "number": "71-0022-10"
+        }
+      ]
+    },
+    {
+      "title": "Women's Bloom",
+      "img": "/images/trends/Women_Bloom.jpg",
+      "secondary_description": "Saturated tones of pinks and coral colors are mixed with acid yellow and earthy tones of brown.",
+      "description": "Our respect for nature continues to resonate and focuses this season on flowers. We are inspired by floral tones and their message of love and hope for the future.",
+      "colors": [
+        {
+          "name": "Ultraviolet",
+          "number": "50-0084-11"
+        },
+        {
+          "name": "Gerber Daisy",
+          "number": "49-0012-11"
+        },
+        {
+          "name": "Cream Beige",
+          "number": "11-0076-10"
+        },
+        {
+          "name": "Sienna",
+          "number": "13-0015-10"
+        },
+        {
+          "name": "Serenity",
+          "number": "60-0098-10"
+        },
+        {
+          "name": "Peony",
+          "number": "61-0081-10"
+        },
+        {
+          "name": "Asteroid",
+          "number": "49-0037-11"
+        },
+        {
+          "name": "Deep Olive",
+          "number": "22-0111-10"
+        },
+        {
+          "name": "Perigee",
+          "number": "32-0031-10"
+        },
+        {
+          "name": "Sweet Pea",
+          "number": "61-0146-10"
+        }
+      ]
+    },
+    {
+      "title": "Men's Bloom",
+      "img": "/images/trends/Men_Bloom.jpg",
+      "secondary_description": "Saturated tones of pinks and coral colors are mixed with acid yellow and earthy tones of brown.",
+      "description": "Our respect for nature continues to resonate and focuses this season on flowers. We are inspired by floral tones and their message of love and hope for the future.",
+      "colors": [
+        {
+          "name": "Ultraviolet",
+          "number": "50-0084-11"
+        },
+        {
+          "name": "Gerber Daisy",
+          "number": "49-0012-11"
+        },
+        {
+          "name": "Cream Beige",
+          "number": "11-0076-10"
+        },
+        {
+          "name": "Sienna",
+          "number": "13-0015-10"
+        },
+        {
+          "name": "Wavelength",
+          "number": "61-0136-10"
+        },
+        {
+          "name": "Indigo",
+          "number": "73-0101-10"
+        },
+        {
+          "name": "Serenity",
+          "number": "60-0098-10"
+        },
+        {
+          "name": "Peony",
+          "number": "61-0081-10"
+        },
+        {
+          "name": "Deep Olive",
+          "number": "22-0111-10"
+        },
+        {
+          "name": "Sweet Pea",
+          "number": "61-0146-10"
+        }
+      ]
+    },
+    {
+      "title": "Women's Zenith",
+      "img": "/images/trends/Women_Zenith.jpg",
+      "secondary_description": "Jewel toned bright shades of purple and magenta, lilac, turquoise and yellow are balanced by saturated navy and bright white.",
+      "description": "This is a vibrant palette, full of vivid shades, as if viewed through a kaleidoscope. It works well early in the season for prints.",
+      "colors": [
+        {
+          "name": "Ultraviolet",
+          "number": "54-0014-11"
+        },
+        {
+          "name": "Firefly",
+          "number": "31-0020-10"
+        },
+        {
+          "name": "Aquarius",
+          "number": "89-0089-10"
+        },
+        {
+          "name": "Andromedia",
+          "number": "53-0065-11"
+        },
+        {
+          "name": "Nebula",
+          "number": "61-0160-10"
+        },
+        {
+          "name": "Lunar",
+          "number": "75-0093-11"
+        },
+        {
+          "name": "Snow",
+          "number": "00-0002-10"
+        },
+        {
+          "name": "Gamma Ray",
+          "number": "52-0029-11"
+        },
+        {
+          "name": "Cosmos",
+          "number": "59-0022-11"
+        },
+        {
+          "name": "Saturn",
+          "number": "39-0033-1"
+        }
+      ]
+    },
+    {
+      "title": "Men's Zenith",
+      "img": "/images/trends/Men_Zenith.jpg",
+      "secondary_description": "Jewel toned bright shades of purple and magenta, lilac, turquoise and yellow are balanced by saturated navy and bright white.",
+      "description": "This is a vibrant palette, full of vivid shades, as if viewed through a kaleidoscope. It works well early in the season for prints.",
+      "colors": [
+        {
+          "name": "Gemini",
+          "number": "79-0071-10"
+        },
+        {
+          "name": "Saturn",
+          "number": "39-0033-10"
+        },
+        {
+          "name": "Satellite",
+          "number": "74-0037-11"
+        },
+        {
+          "name": "Nova",
+          "number": "40-0069-11"
+        },
+        {
+          "name": "Cosmos",
+          "number": "59-0022-11"
+        },
+        {
+          "name": "Jupiter",
+          "number": "60-0024-10"
+        },
+        {
+          "name": "Gamma Ray",
+          "number": "52-0029-11"
+        },
+        {
+          "name": "Lunar",
+          "number": "75-0093-11"
+        },
+        {
+          "name": "Andromeda",
+          "number": "53-0065-11"
+        },
+        {
+          "name": "Firefly",
+          "number": "31-0020-10"
+        }
+      ]
+    },
+    {
+      "title": "Women's Youthquake",
+      "img": "/images/trends/Women_Youthquake.jpg",
+      "secondary_description": "Bright red, orange, turquoise and cadet blue mix with khaki, copper, olive drab and fern green.",
+      "description": "Millennials continue to make their mark through art, music and protest. Aka the “woke” generation they adopt signal brights and military colors to express their point of view. It’s a palette suitable for athleisure and sporty styles, to work all season long.",
+      "colors": [
+        {
+          "name": "Zenith",
+          "number": "69-0014-10"
+        },
+        {
+          "name": "Galileo",
+          "number": "79-0044-10"
+        },
+        {
+          "name": "Indigo",
+          "number": "73-0021-10"
+        },
+        {
+          "name": "Altitude",
+          "number": "71-0141-10"
+        },
+        {
+          "name": "Nova",
+          "number": "49-0027-11"
+        },
+        {
+          "name": "Golden Ochre",
+          "number": "10-0052-10"
+        },
+        {
+          "name": "Copper",
+          "number": "21-0015-10"
+        },
+        {
+          "name": "Kelvin",
+          "number": "84-0012-10"
+        },
+        {
+          "name": "Solar",
+          "number": "40-0031-11"
+        },
+        {
+          "name": "Fern",
+          "number": "81-0084-10"
+        }
+      ]
+    },
+    {
+      "title": "Men's Youthquake",
+      "img": "/images/trends/Men_Youthquake.jpg",
+      "secondary_description": "Bright red, orange, turquoise and cadet blue mix with khaki, copper, olive drab and fern green.",
+      "description": "Millennials continue to make their mark through art, music and protest. Aka the “woke” generation they adopt signal brights and military colors to express their point of view. It’s a palette suitable for athleisure and sporty styles, to work all season long.",
+      "colors": [
+        {
+          "name": "Zenith",
+          "number": "69-0014-10"
+        },
+        {
+          "name": "Galileo",
+          "number": "79-0044-10"
+        },
+        {
+          "name": "Nova",
+          "number": "49-0027-11"
+        },
+        {
+          "name": "Golden Ochre",
+          "number": "10-0052-10"
+        },
+        {
+          "name": "Goldenrod",
+          "number": "32-0042-10"
+        },
+        {
+          "name": "Indigo",
+          "number": "73-0021-10"
+        },
+        {
+          "name": "Pisces",
+          "number": "71-0144-10"
+        },
+        {
+          "name": "Kelvin",
+          "number": "84-0012-10"
+        },
+        {
+          "name": "Metal",
+          "number": "91-0032-10"
+        },
+        {
+          "name": "Copper",
+          "number": "21-0015-1"
+        }
+      ]
+    }
+  ],
+  "fall-winter-2018": [
+    {
+      "title": "Fall/Winter 2018 Color Palettes",
+      "img": "/images/trends/fallwinter-2018-cover.jpg",
+      "description": "In a time of chaos, we look back to the past to create a clearer pathway to the future. Grand country houses with their traditional autumnal tones and the colors associated with the Arts & Crafts movement provide comfort. In contrast, the virtual world and real life continue to clash, resulting in a desire for vivid color palettes in a collaged style. Finally young people, influenced by years of war, adopt military styles for streetwear."
+    },
+    {
+      "title": "Heritage Women",
+      "img": "/images/trends/W_Heritage.jpg",
+      "description": "Celebrating fall by referencing traditional textures such as tweed and herringbone in colors traditional to the season. This palette works well for suits, coats and sweaters for August and September delivery.",
+      "secondary_description": "A classical palette of traditionally autumnal tones with neutrals including cream beige, sand and umber associated with auburn, burned orange and goldenrod.",
+      "colors": [
+        {
+          "name": "Tiger Lily (Botanical)",
+          "number": "43-0057-11"
+        },
+        {
+          "name": "Onyx (Earthen)",
+          "number": "98-0010-10"
+        },
+        {
+          "name": "Smoke (Earthen)",
+          "number": "11-0073-10"
+        },
+        {
+          "name": "Sand (Earthen)",
+          "number": "11-0136-10"
+        },
+        {
+          "name": "Goldenrod (Botanical)",
+          "number": "32-0029-10"
+        },
+        {
+          "name": "Auburn (Earthen)",
+          "number": "21-0070-10"
+        },
+        {
+          "name": "Cream Beige (Earthen)",
+          "number": "02-0046-10"
+        },
+        {
+          "name": "Fireball (Celestial)",
+          "number": "52-0064-11"
+        },
+        {
+          "name": "Umber (Earthen)",
+          "number": "20-0011-10"
+        },
+        {
+          "name": "Auburn (Earthen)",
+          "number": "20-0030-10"
+        }
+      ]
+    },
+    {
+      "title": "Heritage Men",
+      "img": "/images/trends/M_Heritage.jpg",
+      "description": "Celebrating fall by referencing traditional textures such as tweed and herringbone in colors traditional to the season. This palette works well for suits, coats and sweaters for August and September delivery.",
+      "secondary_description": "A classical palette of traditionally autumnal tones with neutrals including cream beige, sand and umber associated with auburn, burned orange and goldenrod.",
+      "colors": [
+        {
+          "name": "Tiger Lily (Botanical)",
+          "number": "43-0057-11"
+        },
+        {
+          "name": "Onyx (Earthen)",
+          "number": "98-0010-10"
+        },
+        {
+          "name": "Smoke (Earthen)",
+          "number": "11-0073-10"
+        },
+        {
+          "name": "Sand (Earthen)",
+          "number": "11-0136-10"
+        },
+        {
+          "name": "Goldenrod (Botanical)",
+          "number": "32-0029-10"
+        },
+        {
+          "name": "Auburn (Earthen)",
+          "number": "21-0070-10"
+        },
+        {
+          "name": "Cream Beige (Earthen)",
+          "number": "02-0046-10"
+        },
+        {
+          "name": "Fireball (Celestial)",
+          "number": "52-0064-11"
+        },
+        {
+          "name": "Umber (Earthen)",
+          "number": "20-0011-10"
+        },
+        {
+          "name": "Auburn (Earthen)",
+          "number": "20-0030-10"
+        }
+      ]
+    },
+    {
+      "title": "Collage Women",
+      "img": "/images/trends/W_Collage.jpg",
+      "description": "This trend sees an exuberant and eclectic clash of colors come together in collaged style. It works well for fur, faux fur and sweater knits for October and November delivery.",
+      "secondary_description": "Vibrant pink, lime green and bright blue associate with plum, orange, deep red and navy.",
+      "colors": [
+        {
+          "name": "Apollo (Celestial)",
+          "number": "42-0081-11"
+        },
+        {
+          "name": "Plum (Botanical)",
+          "number": "51-0065-11"
+        },
+        {
+          "name": "Quasar (Celestial)",
+          "number": "53-0058-11"
+        },
+        {
+          "name": "Quantum (Celestial)",
+          "number": "62-0041-10"
+        },
+        {
+          "name": "Ultraviolet (Celestial)",
+          "number": "52-0057-11"
+        },
+        {
+          "name": "Cornflower (Botanical)",
+          "number": "79-0022-10"
+        },
+        {
+          "name": "Fireball (Celestial)",
+          "number": "62-0126-10"
+        },
+        {
+          "name": "Aires (Celestial)",
+          "number": "75-0004-11"
+        },
+        {
+          "name": "Andromeda (Celestial)",
+          "number": "73-0086-10"
+        },
+        {
+          "name": "Apogee (Celestial)",
+          "number": "81-0059-10"
+        }
+      ]
+    },
+    {
+      "title": "Collage Men",
+      "img": "/images/trends/M_Collage.jpg",
+      "secondary_description": "Vibrant pink, lime green and bright blue associate with plum, orange, deep red and navy.",
+      "description": "This trend sees an exuberant and eclectic clash of colors come together in collaged style. It works well for fur, faux fur and sweater knits for October and November delivery.",
+      "colors": [
+        {
+          "name": "Apollo (Celestial)",
+          "number": "42-0081-11"
+        },
+        {
+          "name": "Plum (Botanical)",
+          "number": "51-0065-11"
+        },
+        {
+          "name": "Quasar (Celestial)",
+          "number": "53-0058-11"
+        },
+        {
+          "name": "Quantum (Celestial)",
+          "number": "62-0041-10"
+        },
+        {
+          "name": "Ultraviolet (Celestial)",
+          "number": "52-0057-11"
+        },
+        {
+          "name": "Cornflower (Botanical)",
+          "number": "79-0022-10"
+        },
+        {
+          "name": "Fireball (Celestial)",
+          "number": "62-0126-10"
+        },
+        {
+          "name": "Aires (Celestial)",
+          "number": "75-0004-11"
+        },
+        {
+          "name": "Andromeda (Celestial)",
+          "number": "73-0086-10"
+        },
+        {
+          "name": "Apogee (Celestial)",
+          "number": "81-0059-10"
+        }
+      ]
+    },
+    {
+      "title": "Arts & Crafts Women",
+      "img": "/images/trends/W_Arts&Crafts.jpg",
+      "description": "Taking cue from the Arts & Crafts movement and the work of William Morris, this trend is print-driven and works for brocades, wovens and sweater knits. It can be delivered early or later in the season.",
+      "secondary_description": "A series of dusty colored neutrals including peach, tea rose and lavender are worked back to a purple-toned blue.",
+      "colors": [
+        {
+          "name": "Orion (Celestial)",
+          "number": "39-0047-10"
+        },
+        {
+          "name": "Serenity (Celestial)",
+          "number": "61-0059-10"
+        },
+        {
+          "name": "Pasture (Botanical)",
+          "number": "82-0154-10"
+        },
+        {
+          "name": "Peaches (Botanical)",
+          "number": "40-0106-11"
+        },
+        {
+          "name": "Spiral (Celestial)",
+          "number": "75-0095-11"
+        },
+        {
+          "name": "Bluegrass (Botanical)",
+          "number": "82-0132-10"
+        },
+        {
+          "name": "Tea Rose (Botanical)",
+          "number": "61-0167-10"
+        },
+        {
+          "name": "Lupine (Botanical)",
+          "number": "71-0183-10"
+        },
+        {
+          "name": "Lupine (Botanical)",
+          "number": "53-0048-11"
+        },
+        {
+          "name": "Lavender (Botanical)",
+          "number": "51-0018-11"
+        }
+      ]
+    },
+    {
+      "title": "Arts & Crafts Men",
+      "img": "/images/trends/M_Arts&Crafts.jpg",
+      "description": "Taking cue from the Arts & Crafts movement and the work of William Morris, this trend is print-driven and works for brocades, wovens and sweater knits. It can be delivered early or later in the season.",
+      "secondary_description": "A series of dusty colored neutrals including peach, tea rose and lavender are worked back to a purple-toned blue.",
+      "colors": [
+        {
+          "name": "Orion (Celestial)",
+          "number": "39-0047-10"
+        },
+        {
+          "name": "Serenity (Celestial)",
+          "number": "61-0059-10"
+        },
+        {
+          "name": "Pasture (Botanical)",
+          "number": "82-0154-10"
+        },
+        {
+          "name": "Peaches (Botanical)",
+          "number": "40-0106-11"
+        },
+        {
+          "name": "Spiral (Celestial)",
+          "number": "75-0095-11"
+        },
+        {
+          "name": "Bluegrass (Botanical)",
+          "number": "82-0132-10"
+        },
+        {
+          "name": "Tea Rose (Botanical)",
+          "number": "61-0167-10"
+        },
+        {
+          "name": "Lupine (Botanical)",
+          "number": "71-0183-10"
+        },
+        {
+          "name": "Lupine (Botanical)",
+          "number": "53-0048-11"
+        },
+        {
+          "name": "Lavender (Botanical)",
+          "number": "51-0018-11"
+        }
+      ]
+    },
+    {
+      "title": "Military Women",
+      "img": "/images/trends/W_Military.jpg",
+      "description": "This palette takes inspiration from military uniforms and streetwear. It can be used to create camouflage prints. Works well for Transeasonal delivery in August.",
+      "secondary_description": "A variety of earth tones, olive, ecru, sepia and rust are associated with acid green, burnt orange and teal green.",
+      "colors": [
+        {
+          "name": "Jungle (Botanical)",
+          "number": "84-0016-10"
+        },
+        {
+          "name": "Nova (Celestial)",
+          "number": "49-0043-11"
+        },
+        {
+          "name": "Saturn (Celestial)",
+          "number": "39-0021-10"
+        },
+        {
+          "name": "Boxwood (Botanical)",
+          "number": "84-0098-10"
+        },
+        {
+          "name": "Sepia (Earthen)",
+          "number": "21-0066-10"
+        },
+        {
+          "name": "Ecru (Earthen)",
+          "number": "02-0015-10"
+        },
+        {
+          "name": "Wild Olive (Botanical)",
+          "number": "83-0079-10"
+        },
+        {
+          "name": "Adobe (Earthen)",
+          "number": "13-0067-10"
+        },
+        {
+          "name": "Olive (Botanical)",
+          "number": "12-0074-10"
+        },
+        {
+          "name": "Cascade (Botanical)",
+          "number": "71-0154-10"
+        }
+      ]
+    },
+    {
+      "title": "Military Men",
+      "img": "/images/trends/M_Military.jpg",
+      "description": "This palette takes inspiration from military uniforms and streetwear. It can be used to create camouflage prints. Works well for Transeasonal delivery in August.",
+      "secondary_description": "A variety of earth tones, olive, ecru, sepia and rust are associated with acid green, burnt orange and teal green.",
+      "colors": [
+        {
+          "name": "Jungle (Botanical)",
+          "number": "84-0016-10"
+        },
+        {
+          "name": "Nova (Celestial)",
+          "number": "49-0043-11"
+        },
+        {
+          "name": "Saturn (Celestial)",
+          "number": "39-0021-10"
+        },
+        {
+          "name": "Boxwood (Botanical)",
+          "number": "84-0098-10"
+        },
+        {
+          "name": "Sepia (Earthen)",
+          "number": "21-0066-10"
+        },
+        {
+          "name": "Ecru (Earthen)",
+          "number": "02-0015-10"
+        },
+        {
+          "name": "Wild Olive (Botanical)",
+          "number": "83-0079-10"
+        },
+        {
+          "name": "Adobe (Earthen)",
+          "number": "13-0067-10"
+        },
+        {
+          "name": "Olive (Botanical)",
+          "number": "12-0074-10"
+        },
+        {
+          "name": "Cascade (Botanical)",
+          "number": "71-0154-10"
+        }
+      ]
+    }
+  ],
+  "spring-summer-2018": [
+    {
+      "title": "Spring/Summer 2018",
+      "img": "/images/trends/springsummer-2018-cover.jpg",
+      "description": "Sweeping socio-political changes engender a powerfully liberal counter culture. As a result, color becomes more fluid, traversing gender, sexuality, age and the seasons. The four Sophicolor trends for Spring/Summer 2018 reflect this."
+    },
+    {
+      "title": "Industrial Women",
+      "img": "/images/trends/industrial_women.jpg",
+      "description": "A renewed interest in artisanal and industrial inspires a palette which transitions from winter to spring.",
+      "colors": [
+        {
+          "name": "Auburn",
+          "number": "21-0045-10"
+        },
+        {
+          "name": "Hosta",
+          "number": "82-0114-10"
+        },
+        {
+          "name": "Altitude",
+          "number": "71-0129-10"
+        },
+        {
+          "name": "Dove",
+          "number": "90-0118-10"
+        },
+        {
+          "name": "Andromeda",
+          "number": "73-0028-10"
+        },
+        {
+          "name": "Olive Drab",
+          "number": "22-0060-10"
+        },
+        {
+          "name": "Steel",
+          "number": "11-0070-10"
+        },
+        {
+          "name": "Copper",
+          "number": "21-0021-10"
+        },
+        {
+          "name": "Strawberries",
+          "number": "63-0092-10"
+        },
+        {
+          "name": "Chestnut",
+          "number": "23-0093-10"
+        }
+      ]
+    },
+    {
+      "title": "Industrial Men",
+      "img": "/images/trends/industrial_men.jpg",
+      "description": "A renewed interest in artisanal and industrial inspires a palette which transitions from winter to spring.",
+      "colors": [
+        {
+          "name": "Auburn",
+          "number": "21-0045-10"
+        },
+        {
+          "name": "Hosta",
+          "number": "82-0114-10"
+        },
+        {
+          "name": "Altitude",
+          "number": "71-0129-10"
+        },
+        {
+          "name": "Dove",
+          "number": "90-0118-10"
+        },
+        {
+          "name": "Andromeda",
+          "number": "73-0028-10"
+        },
+        {
+          "name": "Olive Drab",
+          "number": "22-0060-10"
+        },
+        {
+          "name": "Steel",
+          "number": "11-0070-10"
+        },
+        {
+          "name": "Copper",
+          "number": "21-0021-10"
+        },
+        {
+          "name": "Strawberries",
+          "number": "63-0092-10"
+        },
+        {
+          "name": "Chestnut",
+          "number": "23-0093-10"
+        }
+      ]
+    },
+    {
+      "title": "Foliage Women",
+      "img": "/images/trends/foliage_women.jpg",
+      "description": "For late spring, the interplay of the natural and the digital continues to inspire our color choices. A variety of greens grow in importance. ",
+      "colors": [
+        {
+          "number": "82-0073-10",
+          "name": "Ivy"
+        },
+        {
+          "number": "89-0033-10",
+          "name": "Apogee"
+        },
+        {
+          "number": "59-0048-11",
+          "name": "Gamma Ray "
+        },
+        {
+          "number": "32-0057-10",
+          "name": "Goldenrod"
+        },
+        {
+          "number": "49-0031-11",
+          "name": "Meteor"
+        },
+        {
+          "number": "75-0079-11",
+          "name": "Lunar"
+        },
+        {
+          "number": "81-0218-10",
+          "name": "Jungle"
+        },
+        {
+          "number": "43-0061-11",
+          "name": "Tiger Lily"
+        },
+        {
+          "number": "84-0081-10",
+          "name": "Boxwood"
+        },
+        {
+          "number": "65-0018-10",
+          "name": "Begonia"
+        }
+      ]
+    },
+    {
+      "title": "Foliage Men",
+      "img": "/images/trends/foliage_men.jpg",
+      "description": "For late spring, the interplay of the natural and the digital continues to inspire our color choices. A variety of greens grow in importance. ",
+      "colors": [
+        {
+          "number": "82-0073-10",
+          "name": "Ivy"
+        },
+        {
+          "number": "89-0033-10",
+          "name": "Apogee"
+        },
+        {
+          "number": "59-0048-11",
+          "name": "Gamma Ray "
+        },
+        {
+          "number": "32-0057-10",
+          "name": "Goldenrod"
+        },
+        {
+          "number": "49-0031-11",
+          "name": "Meteor"
+        },
+        {
+          "number": "75-0079-11",
+          "name": "Lunar"
+        },
+        {
+          "number": "81-0218-10",
+          "name": "Jungle"
+        },
+        {
+          "number": "43-0061-11",
+          "name": "Tiger Lily"
+        },
+        {
+          "number": "84-0081-10",
+          "name": "Boxwood"
+        },
+        {
+          "number": "65-0018-10",
+          "name": "Begonia"
+        }
+      ]
+    },
+    {
+      "title": "Havana Women",
+      "img": "/images/trends/havana_women.jpg",
+      "description": "As new markets and travel destinations emerge, for summer 18, a fresh interest in Cuba and its capital emerges. Colors are reminiscent of a bygone era. ",
+      "colors": [
+        {
+          "number": "50-0061-11",
+          "name": "Nebula"
+        },
+        {
+          "number": "41-0046-11",
+          "name": "Poppy"
+        },
+        {
+          "number": "32-0030-10",
+          "name": "Perigree"
+        },
+        {
+          "number": "11-0134-10",
+          "name": "Sand"
+        },
+        {
+          "number": "52-0021-11",
+          "name": "Heather"
+        },
+        {
+          "number": "72-0093-11",
+          "name": "Agave"
+        },
+        {
+          "number": "74-0002-15",
+          "name": "Jenteal"
+        },
+        {
+          "number": "70-0059-10",
+          "name": "Astral"
+        },
+        {
+          "number": "13-0028-10",
+          "name": "Sandstone"
+        },
+        {
+          "number": "40-0108-11",
+          "name": "Peaches"
+        }
+      ]
+    },
+    {
+      "title": "Havana Men",
+      "img": "/images/trends/havana_men.jpg",
+      "description": "As new markets and travel destinations emerge, for summer 18, a fresh interest in Cuba and its capital emerges. Colors are reminiscent of a bygone era. ",
+      "colors": [
+        {
+          "number": "50-0061-11",
+          "name": "Nebula"
+        },
+        {
+          "number": "41-0046-11",
+          "name": "Poppy"
+        },
+        {
+          "number": "32-0030-10",
+          "name": "Perigree"
+        },
+        {
+          "number": "11-0134-10",
+          "name": "Sand"
+        },
+        {
+          "number": "52-0021-11",
+          "name": "Heather"
+        },
+        {
+          "number": "72-0093-11",
+          "name": "Agave"
+        },
+        {
+          "number": "74-0002-15",
+          "name": "Jenteal"
+        },
+        {
+          "number": "70-0059-10",
+          "name": "Astral"
+        },
+        {
+          "number": "13-0028-10",
+          "name": "Sandstone"
+        },
+        {
+          "number": "40-0108-11",
+          "name": "Peaches"
+        }
+      ]
+    },
+    {
+      "title": "Gymnasium Women",
+      "img": "/images/trends/gymnasium_women.jpg",
+      "description": "As the population ages and keeps working later in life, keeping fit remains a priority. neons colors for workout clothes continue to resonate. ",
+      "colors": [
+        {
+          "number": "98-0013-10",
+          "name": "Onyx "
+        },
+        {
+          "number": "70-0010-15",
+          "name": "Aquamarine"
+        },
+        {
+          "number": "49-0004-15",
+          "name": "Hot Scarlet"
+        },
+        {
+          "number": "11-0089-10",
+          "name": "Cream Beige"
+        },
+        {
+          "number": "79-0002-15",
+          "name": "Sapphire"
+        },
+        {
+          "number": "53-0003-15",
+          "name": "Azul"
+        },
+        {
+          "number": "81-0126-10",
+          "name": "Neptune"
+        },
+        {
+          "number": "65-0010-15",
+          "name": "Red Sangria "
+        },
+        {
+          "number": "90-0130-10",
+          "name": "Sahara"
+        },
+        {
+          "number": "73-0089-10",
+          "name": "Indigo"
+        }
+      ]
+    },
+    {
+      "title": "Gymnasium Men",
+      "img": "/images/trends/gymnasium_men.jpg",
+      "description": "As the population ages and keeps working later in life, keeping fit remains a priority. neons colors for workout clothes continue to resonate. ",
+      "colors": [
+        {
+          "number": "98-0013-10",
+          "name": "Onyx "
+        },
+        {
+          "number": "70-0010-15",
+          "name": "Aquamarine"
+        },
+        {
+          "number": "49-0004-15",
+          "name": "Hot Scarlet"
+        },
+        {
+          "number": "11-0089-10",
+          "name": "Cream Beige"
+        },
+        {
+          "number": "79-0002-15",
+          "name": "Sapphire"
+        },
+        {
+          "number": "53-0003-15",
+          "name": "Azul"
+        },
+        {
+          "number": "81-0126-10",
+          "name": "Neptune"
+        },
+        {
+          "number": "65-0010-15",
+          "name": "Red Sangria "
+        },
+        {
+          "number": "90-0130-10",
+          "name": "Sahara"
+        },
+        {
+          "number": "73-0089-10",
+          "name": "Indigo"
+        }
+      ]
+    }
+  ],
+  "fall-2017": [
+    {
+      "title": "Fall 2017",
+      "img": "/images/trends/fall-2017-cover.jpg",
+      "description": "Some of the uncertainty of the previous few years subsides and a new set of rules for the future seems more likely. Protecting diversity has never been more paramount in some quarters. Women show their strength by becoming world leaders."
+    },
+    {
+      "title": "Snowscape Men",
+      "img": "/images/trends/snowscape-men.jpg",
+      "description": "There is heightened interest in Northern climates and in winter sports like skiing and snowboarding ahead of the 2018 Winter Olympic Games in Pyeongchang, Korea.",
+      "colors": [
+        {
+          "number": "71-0114-10"
+        },
+        {
+          "number": "32-0006-15"
+        },
+        {
+          "number": "90-0130-10"
+        },
+        {
+          "number": "62-0008-15"
+        },
+        {
+          "number": "00-0004-10"
+        },
+        {
+          "number": "49-0004-15"
+        },
+        {
+          "number": "98-0005-10"
+        },
+        {
+          "number": "91-0095-10"
+        },
+        {
+          "number": "79-0002-15"
+        },
+        {
+          "number": "73-0050-10"
+        }
+      ]
+    },
+    {
+      "title": "Snowscape Women",
+      "img": "/images/trends/snowscape-women.jpg",
+      "description": "There is heightened interest in Northern climates and in winter sports like skiing and snowboarding ahead of the 2018 Winter Olympic Games in Pyeongchang, Korea.",
+      "colors": [
+        {
+          "number": "90-0130-10"
+        },
+        {
+          "number": "49-0004-15"
+        },
+        {
+          "number": "73-0050-10"
+        },
+        {
+          "number": "54-0005-15"
+        },
+        {
+          "number": "32-0006-15"
+        },
+        {
+          "number": "69-0005-15"
+        },
+        {
+          "number": "00-0004-10"
+        },
+        {
+          "number": "62-0008-15"
+        },
+        {
+          "number": "79-0002-15"
+        },
+        {
+          "number": "51-0005-15"
+        }
+      ]
+    },
+    {
+      "title": "Creole Men",
+      "img": "/images/trends/creole-men.jpg",
+      "description": "The #Blacklivesmatter movement and celebrities from Beyoncé and Jesse Williams bring all aspects of African-American life into full focus. We look particularly to the South and the colors found in Creole culture.",
+      "colors": [
+        {
+          "number": "65-0019-10"
+        },
+        {
+          "number": "73-0063-10"
+        },
+        {
+          "number": "93-0059-10"
+        },
+        {
+          "number": "82-0065-10"
+        },
+        {
+          "number": "89-0041-10"
+        },
+        {
+          "number": "42-0050-11"
+        },
+        {
+          "number": "43-0060-11"
+        },
+        {
+          "number": "62-0048-10"
+        },
+        {
+          "number": "32-0045-10"
+        },
+        {
+          "number": "32-0007-10"
+        }
+      ]
+    },
+    {
+      "title": "Creole Women",
+      "img": "/images/trends/creole-women.jpg",
+      "description": "The #Blacklivesmatter movement and celebrities from Beyoncé and Jesse Williams bring all aspects of African-American life into full focus. We look particularly to the South and the colors found in Creole culture.",
+      "colors": [
+        {
+          "number": "82-0065-10"
+        },
+        {
+          "number": "71-0047-10"
+        },
+        {
+          "number": "73-0063-10"
+        },
+        {
+          "number": "50-0111-11"
+        },
+        {
+          "number": "93-0059-10"
+        },
+        {
+          "number": "42-0050-11"
+        },
+        {
+          "number": "43-0060-11"
+        },
+        {
+          "number": "62-0048-10"
+        },
+        {
+          "number": "32-0007-10"
+        },
+        {
+          "number": "32-0045-10"
+        }
+      ]
+    },
+    {
+      "title": "Men's Androgyny",
+      "img": "/images/trends/mens-androgny.jpg",
+      "description": "Men's clothing styles become feminized without losing their masculine edge through the use of color. ",
+      "colors": [
+        {
+          "number": "74-0070-11"
+        },
+        {
+          "number": "82-0065-10"
+        },
+        {
+          "number": "21-0065-10"
+        },
+        {
+          "number": "49-0042-11"
+        },
+        {
+          "number": "01-0019-10"
+        },
+        {
+          "number": "02-0044-10"
+        },
+        {
+          "number": "65-0027-10"
+        },
+        {
+          "number": "20-0101-10"
+        },
+        {
+          "number": "40-0107-11"
+        },
+        {
+          "number": "23-0061-10"
+        }
+      ]
+    },
+    {
+      "title": "Women's Androgyny",
+      "img": "/images/trends/womens-androgny.jpg",
+      "description": "Men's tailoring continues to impact women's clothing styles enhanced by retro modern coloring.",
+      "colors": [
+        {
+          "number": "20-0101-10"
+        },
+        {
+          "number": "49-0042-11"
+        },
+        {
+          "number": "74-0070-11"
+        },
+        {
+          "number": "21-0065-10"
+        },
+        {
+          "number": "61-0085-10"
+        },
+        {
+          "number": "65-0027-10"
+        },
+        {
+          "number": "02-0044-10"
+        },
+        {
+          "number": "01-0019-10"
+        },
+        {
+          "number": "40-0107-11"
+        },
+        {
+          "number": "23-0061-10"
+        }
+      ]
+    },
+    {
+      "title": "Ancestry Men's",
+      "img": "/images/trends/ancestry-mens.jpg",
+      "description": "The lessons of the past provide answers of how our future might be. Increasingly we long to know about our ancestors. Color palette focuses on the colors found in old masters and precious metals and stones.",
+      "colors": [
+        {
+          "number": "63-0102-10"
+        },
+        {
+          "number": "91-0064-10"
+        },
+        {
+          "number": "32-0034-10"
+        },
+        {
+          "number": "82-0105-10"
+        },
+        {
+          "number": "21-0031-10"
+        },
+        {
+          "number": "21-0075-10"
+        },
+        {
+          "number": "98-0012-10"
+        },
+        {
+          "number": "13-0079-10"
+        },
+        {
+          "number": "70-0075-10"
+        },
+        {
+          "number": "22-0006-10"
+        }
+      ]
+    },
+    {
+      "title": "Ancestry Women's",
+      "img": "/images/trends/ancestry-womens.jpg",
+      "description": "The lessons of the past provide answers of how our future might be. Increasingly we long to know about our ancestors. The color palette focuses on the colors found in old masters and precious metals and stones.",
+      "colors": [
+        {
+          "number": "01-0025-10"
+        },
+        {
+          "number": "22-0006-10"
+        },
+        {
+          "number": "82-0105-10"
+        },
+        {
+          "number": "32-0034-10"
+        },
+        {
+          "number": "63-0102-10"
+        },
+        {
+          "number": "21-0031-10"
+        },
+        {
+          "number": "70-0075-10"
+        },
+        {
+          "number": "98-0012-10"
+        },
+        {
+          "number": "21-0075-10"
+        },
+        {
+          "number": "91-0064-10"
+        }
+      ]
+    }
+  ],
+  "spring-summer-2017": [
+    {
+      "title": "Spring/Summer 2017",
+      "img": "/images/trends/springsummer-2017-cover.jpg",
+      "description": "Sweeping socio-political changes engender a powerfully liberal counter culture. As a result, color becomes more fluid, traversing gender, sexuality, age and the seasons. The four Sophicolor trends for Spring/Summer 2018 reflect this."
+    },
+    {
+      "title": "Marina Men",
+      "img": "/images/trends/marina-men.jpg",
+      "description": "The deepest waters of the ocean act as inspiration for this palette of blues, greens and teal which work with coppery shades of red and auburn tempered by a pink the color of coral. A pop of lavender adds contrast.",
+      "colors": [
+        {
+          "number": "51-0013-11"
+        },
+        {
+          "number": "70-0091-10"
+        },
+        {
+          "number": "62-0111-10"
+        },
+        {
+          "number": "79-0094-10"
+        },
+        {
+          "number": "82-0041-10"
+        },
+        {
+          "number": "74-0010-11"
+        },
+        {
+          "number": "21-0046-10"
+        },
+        {
+          "number": "79-0040-10"
+        },
+        {
+          "number": "21-0027-10"
+        },
+        {
+          "number": "74-0087-11"
+        }
+      ]
+    },
+    {
+      "title": "Marina Women",
+      "img": "/images/trends/marina-women.jpg",
+      "description": "The deepest waters of the ocean act as inspiration for this palette of blues, greens and teal which work with coppery shades of red and auburn tempered by a pink the color of coral. A pop of lavender adds contrast.",
+      "colors": [
+        {
+          "number": "51-0013-11"
+        },
+        {
+          "number": "70-0091-10"
+        },
+        {
+          "number": "62-0111-10"
+        },
+        {
+          "number": "79-0094-10"
+        },
+        {
+          "number": "82-0041-10"
+        },
+        {
+          "number": "74-0010-11"
+        },
+        {
+          "number": "21-0046-10"
+        },
+        {
+          "number": "79-0040-10"
+        },
+        {
+          "number": "21-0027-10"
+        },
+        {
+          "number": "74-0087-11"
+        }
+      ]
+    },
+    {
+      "title": "Mirage Men",
+      "img": "/images/trends/mirage-men.jpg",
+      "description": "Desert scenes inspire this palette; sandy shades include brown and orange mixed with the colors of nomadic tribes' robes including onyx, cobalt blue and ivory.",
+      "colors": [
+        {
+          "number": "98-0007-10"
+        },
+        {
+          "number": "13-0061-10"
+        },
+        {
+          "number": "49-0055-11"
+        },
+        {
+          "number": "22-0106-10"
+        },
+        {
+          "number": "40-0062-11"
+        },
+        {
+          "number": "43-0057-11"
+        },
+        {
+          "number": "79-0083-10"
+        },
+        {
+          "number": "23-0056-10"
+        },
+        {
+          "number": "83-0134-10"
+        },
+        {
+          "number": "01-0016-10"
+        }
+      ]
+    },
+    {
+      "title": "Mirage Women",
+      "img": "/images/trends/mirage-women.jpg",
+      "description": "Desert scenes inspire this palette; sandy shades include brown and orange mixed with the colors of nomadic tribes' robes including onyx, cobalt blue and ivory.",
+      "colors": [
+        {
+          "number": "98-0007-10"
+        },
+        {
+          "number": "13-0061-10"
+        },
+        {
+          "number": "49-0055-11"
+        },
+        {
+          "number": "22-0106-10"
+        },
+        {
+          "number": "40-0062-11"
+        },
+        {
+          "number": "43-0057-11"
+        },
+        {
+          "number": "79-0083-10"
+        },
+        {
+          "number": "23-0056-10"
+        },
+        {
+          "number": "83-0134-10"
+        },
+        {
+          "number": "01-0016-10"
+        }
+      ]
+    },
+    {
+      "title": "Boheme Men",
+      "img": "/images/trends/boheme-men.jpg",
+      "description": "Today's chaotic times continue to evoke thoughts of the seventies. This color palette is inspired by the bohemian styles of the decade. Shades of plum, burgundy, burnt orange and teal green are matched to neutrals like wheat and indigo.",
+      "colors": [
+        {
+          "number": "11-0111-10"
+        },
+        {
+          "number": "42-0084-11"
+        },
+        {
+          "number": "74-0006-11"
+        },
+        {
+          "number": "60-0119-10"
+        },
+        {
+          "number": "51-0063-11"
+        },
+        {
+          "number": "50-0108-11"
+        },
+        {
+          "number": "62-0089-10"
+        },
+        {
+          "number": "73-0025-10"
+        },
+        {
+          "number": "32-0033-10"
+        },
+        {
+          "number": "20-0025-10"
+        }
+      ]
+    },
+    {
+      "title": "Boheme Women",
+      "img": "/images/trends/boheme-women.jpg",
+      "description": "Today's chaotic times continue to evoke thoughts of the seventies. This color palette is inspired by the bohemian styles of the decade. Shades of plum, burgundy, burnt orange and teal green are matched to neutrals like wheat and indigo.",
+      "colors": [
+        {
+          "number": "11-0111-10"
+        },
+        {
+          "number": "42-0084-11"
+        },
+        {
+          "number": "74-0006-11"
+        },
+        {
+          "number": "60-0119-10"
+        },
+        {
+          "number": "51-0063-11"
+        },
+        {
+          "number": "50-0108-11"
+        },
+        {
+          "number": "62-0089-10"
+        },
+        {
+          "number": "73-0025-10"
+        },
+        {
+          "number": "32-0033-10"
+        },
+        {
+          "number": "20-0025-10"
+        }
+      ]
+    },
+    {
+      "title": "Athletica Men",
+      "img": "/images/trends/athletica-men.jpg",
+      "description": "The crossover between athletic wear and sportswear continues and inspires this modern palette, hyper real shades of red, pink, yellow and magenta are matched to white, pearl grey and mid-toned brown.",
+      "colors": [
+        {
+          "number": "69-0021-10"
+        },
+        {
+          "number": "79-0064-10"
+        },
+        {
+          "number": "00-0013-10"
+        },
+        {
+          "number": "71-0130-10"
+        },
+        {
+          "number": "20-0100-10"
+        },
+        {
+          "number": "13-0082-10"
+        },
+        {
+          "number": "62-0079-10"
+        },
+        {
+          "number": "39-0034-10"
+        },
+        {
+          "number": "90-0061-10"
+        },
+        {
+          "number": "74-0022-11"
+        }
+      ]
+    },
+    {
+      "title": "Athletica Women",
+      "img": "/images/trends/athletica-women.jpg",
+      "description": "The crossover between athletic wear and sportswear continues and inspires this modern palette, hyper real shades of red, pink, yellow and magenta are matched to white, pearl grey and mid-toned brown.",
+      "colors": [
+        {
+          "number": "69-0021-10"
+        },
+        {
+          "number": "79-0064-10"
+        },
+        {
+          "number": "00-0013-10"
+        },
+        {
+          "number": "71-0130-10"
+        },
+        {
+          "number": "20-0100-10"
+        },
+        {
+          "number": "13-0082-10"
+        },
+        {
+          "number": "62-0079-10"
+        },
+        {
+          "number": "39-0034-10"
+        },
+        {
+          "number": "90-0061-10"
+        },
+        {
+          "number": "74-0022-11"
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import Link from "next/link"
+import React from "react"
 import { Logo } from "./Logo"
 
 export function Header() {
@@ -141,7 +142,7 @@ function AnnouncementBanner() {
   )
 }
 
-function HeaderLink({ href, children }) {
+function HeaderLink({ href, children }: HeaderLinkProps) {
   return (
     <Link href={href}>
       <a className="leading-6 font-medium text-white focus:outline-none focus:text-gray-200 transition ease-in-out duration-150 inline-flex justify-center items-center">
@@ -151,7 +152,11 @@ function HeaderLink({ href, children }) {
   )
 }
 
-function HeaderDropdownLink({ href, children, items = [] }) {
+function HeaderDropdownLink({
+  href,
+  children,
+  items = [],
+}: HeaderDropdownLinkProps) {
   return (
     <div className="relative">
       <Link href={href}>
@@ -177,3 +182,10 @@ function HeaderDropdownLink({ href, children, items = [] }) {
     </div>
   )
 }
+
+interface HeaderLinkProps {
+  href: string
+  children: React.ReactNode
+}
+
+type HeaderDropdownLinkProps = { items: any[] } & HeaderLinkProps

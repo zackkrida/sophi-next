@@ -170,7 +170,7 @@ function ForDesignersPage() {
   )
 }
 
-export function CheckedFact({ title, copy }) {
+export function CheckedFact({ title, copy }: { title: string; copy: string }) {
   return (
     <li className="flex">
       <div className="ml-3">
