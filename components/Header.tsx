@@ -83,7 +83,7 @@ export function Header() {
                   <span className="relative">
                     <svg
                       className="w-6 h-6 fill-current ml-2 -mt-1"
-                      enable-background="new 0 0 489 489"
+                      enableBackground="new 0 0 489 489"
                       version="1.1"
                       viewBox="0 0 489 489"
                       xmlSpace="preserve"
