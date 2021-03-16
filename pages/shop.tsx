@@ -100,7 +100,7 @@ export default function ShopPage({
   const [currentCollection, setCurrentCollection] = useState(
     Object.keys(collections)[0]
   )
-  const [currentStack, setCurrentStack] = useState()
+  const [currentStack, setCurrentStack] = useState<string>()
   const [currentColors, setCurrentColors] = useState<Color[]>()
 
   useEffect(() => {
@@ -108,6 +108,7 @@ export default function ShopPage({
   }, [currentCollection])
 
   useEffect(() => {
+    // @ts-ignore
     setCurrentColors(getActiveColors(currentStack, currentCollection, colors))
   }, [currentStack])
 
@@ -154,16 +155,20 @@ export default function ShopPage({
 
           <h2>Stacks</h2>
           <ul>
-            {Object.values(collections[currentCollection]).map((i) => (
-              <li key={i}>
-                <button
-                  onClick={() => setCurrentStack(i)}
-                  className={`appearance-none ${activeStackClass(i)}`}
-                >
-                  {i}
-                </button>
-              </li>
-            ))}
+            {Object.values(collections[currentCollection]).map(
+              (i) =>
+                i &&
+                typeof i === "string" && (
+                  <li key={i}>
+                    <button
+                      onClick={() => setCurrentStack(i)}
+                      className={`appearance-none ${activeStackClass(i)}`}
+                    >
+                      {i}
+                    </button>
+                  </li>
+                )
+            )}
           </ul>
         </aside>
 
