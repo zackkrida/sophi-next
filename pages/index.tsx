@@ -22,7 +22,7 @@ export default function Home() {
         </div>
         <div className="relative max-w-7xl mx-auto">
           <div className="text-center lg:mb-20">
-            <h2 className="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
+            <h2 className="text-3xl font-light text-gray-900 sm:text-4xl">
               Sophicolor is the Best in Textile Color
             </h2>
             <p className="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">

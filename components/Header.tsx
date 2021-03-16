@@ -16,7 +16,7 @@ export function Header() {
           onDismiss={hideAlert}
           action={
             <Link href="our-products">
-              <a className="text-black font-bold underline focus:outline-none focus:ring-2 focus:ring-black">
+              <a className="text-black font-bold underline focus:outline-none focus:ring-2 focus:ring-black p-2 rounded-md">
                 Learn more <span aria-hidden="true">&rarr;</span>
               </a>
             </Link>
