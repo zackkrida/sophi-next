@@ -1,8 +1,13 @@
-import { knex } from "knex"
+import { Knex, knex } from "knex"
+import { parse } from "pg-connection-string"
+const pgconfig = parse(process.env.PG_CONNECTION_STRING as string)
+
+// @ts-ignore
+pgconfig.ssl = { rejectUnauthorized: false }
 
 export const db = knex({
   client: "pg",
-  connection: process.env.PG_CONNECTION_STRING,
+  connection: pgconfig as Knex.StaticConnectionConfig,
   searchPath: ["knex", "sophi"],
 })
 
