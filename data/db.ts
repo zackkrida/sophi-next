@@ -6,6 +6,9 @@ export const db = knex({
   searchPath: ["knex", "sophi"],
 })
 
+/**
+ * A sophicolor in the main collection, NOT a company color.
+ */
 export interface Color {
   name: string
   hex: string
