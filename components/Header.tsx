@@ -1,11 +1,28 @@
 import Link from "next/link"
-import React from "react"
+import React, { useState } from "react"
+import { AlertBanner } from "./AlertBanner"
 import { Logo } from "./Logo"
 
 export function Header() {
+  const [showAlert, setShowAlert] = useState(true)
+  const hideAlert = () => setShowAlert(false)
+
   return (
     <div>
-      <AnnouncementBanner />
+      {showAlert && (
+        <AlertBanner
+          text={"Big news! We're excited to announce a brand new product."}
+          textMobile={"We announced a new product!"}
+          onDismiss={hideAlert}
+          action={
+            <Link href="our-products">
+              <a className="text-black font-bold underline focus:outline-none focus:ring-2 focus:ring-black">
+                Learn more <span aria-hidden="true">&rarr;</span>
+              </a>
+            </Link>
+          }
+        />
+      )}
 
       <header className="z-0 relative bg-black">
         <div className="relative z-10 shadow">
@@ -87,57 +104,6 @@ export function Header() {
           </div>
         </div>
       </header>
-    </div>
-  )
-}
-
-function AnnouncementBanner() {
-  return (
-    // <!-- This example requires Tailwind CSS v2.0+ -->
-    <div className="relative bg-yellow-400 text-black">
-      <div className="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
-        <div className="pr-16 sm:text-center sm:px-16">
-          <p className="font-medium text-black">
-            <span className="lg:hidden">We announced a new product!</span>
-            <span className="hidden lg:inline">
-              Big news! We're excited to announce a brand new product.
-            </span>
-            <span className="block sm:ml-2 sm:inline-block">
-              <a
-                href="#"
-                className="text-black font-bold underline focus:outline-none focus:ring-2 focus:ring-black"
-              >
-                {" "}
-                Learn more <span aria-hidden="true">&rarr;</span>
-              </a>
-            </span>
-          </p>
-        </div>
-        <div className="absolute inset-y-0 right-0 pt-1 pr-1 flex items-start sm:pt-1 sm:pr-2 sm:items-start">
-          <button
-            type="button"
-            className="flex p-2 rounded-md hover:bg-indigo-500 focus:outline-none focus:ring-2 focus:ring-black fill-current"
-          >
-            <span className="sr-only">Dismiss</span>
-            {/* <!-- Heroicon name: outline/x --> */}
-            <svg
-              className="h-6 w-6"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-              aria-hidden="true"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M6 18L18 6M6 6l12 12"
-              />
-            </svg>
-          </button>
-        </div>
-      </div>
     </div>
   )
 }

@@ -21,7 +21,7 @@ export default function AboutUs() {
             <p className="leading-6 text-indigo-600 font-semibold tracking-wide uppercase">
               Leading experts in color
             </p>
-            <h1 className="mt-2 mb-8 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
+            <h1 className="mt-2 mb-8 text-3xl leading-8 font-light text-gray-900 sm:text-4xl sm:leading-10">
               About Sophicolor
             </h1>
             <p className="text-lg leading-7 text-gray-500 mb-5">

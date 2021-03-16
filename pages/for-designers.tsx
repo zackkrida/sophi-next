@@ -100,7 +100,7 @@ function ForDesignersPage() {
             <h2 className="text-base font-semibold uppercase tracking-wider text-gray-300">
               Spring/Summer 2022
             </h2>
-            <p className="mt-2 text-white text-3xl font-extrabold tracking-tight sm:text-4xl">
+            <p className="mt-2 text-white text-3xl font-light sm:text-4xl">
               Color Trend Forecasts
             </p>
             <p className="mt-3 text-lg text-gray-300">
@@ -147,7 +147,7 @@ function ForDesignersPage() {
             <h2 className="text-base font-semibold uppercase tracking-wider text-gray-300">
               Intuitive User Interface
             </h2>
-            <p className="mt-2 text-white text-3xl font-extrabold tracking-tight sm:text-4xl">
+            <p className="mt-2 text-white text-3xl font-light sm:text-4xl">
               Darhboard Features
             </p>
             <p className="mt-3 text-lg text-gray-300"></p>
