@@ -14,12 +14,11 @@ export function AlertBanner({
   action: React.ReactNode
   onDismiss: () => void
 }) {
-  const color = "yellow"
   const focusStyles = "focus:outline-none focus:ring-2 focus:ring-black"
 
   return (
     // <!-- This example requires Tailwind CSS v2.0+ -->
-    <div className={`relative bg-${color}-400 text-black`}>
+    <div className={`relative bg-yellow-400 text-black`}>
       <div className="max-w-7xl mx-auto py-1 px-3 sm:px-6 lg:px-8">
         <div className="pr-16 sm:text-center sm:px-16">
           <p className="font-medium text-black">
@@ -27,7 +26,7 @@ export function AlertBanner({
             <span className="hidden lg:inline">{text}</span>
             {action && (
               <span
-                className={`block sm:ml-2 sm:inline-block rounded-md hover:bg-${color}-500 p-2 ${focusStyles}`}
+                className={`block sm:ml-2 sm:inline-block rounded-md hover:bg-yellow-500 p-2 ${focusStyles}`}
               >
                 {action}
               </span>
@@ -38,7 +37,7 @@ export function AlertBanner({
           <button
             onClick={onDismiss}
             type="button"
-            className={`flex p-2 rounded-md hover:bg-${color}-500 ${focusStyles} fill-current`}
+            className={`flex p-2 rounded-md hover:bg-yellow-500 ${focusStyles} fill-current`}
           >
             <span className="sr-only">Dismiss</span>
             {/* <!-- Heroicon name: outline/x --> */}
