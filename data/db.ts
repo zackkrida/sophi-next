@@ -2,8 +2,10 @@ import { Knex, knex } from "knex"
 import { parse } from "pg-connection-string"
 const pgconfig = parse(process.env.PG_CONNECTION_STRING as string)
 
-// @ts-ignore
-pgconfig.ssl = { rejectUnauthorized: false }
+if (process.env.NODE_ENV === "production") {
+  // @ts-ignore
+  pgconfig.ssl = { rejectUnauthorized: false }
+}
 
 export const db = knex({
   client: "pg",
