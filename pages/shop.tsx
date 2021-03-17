@@ -36,10 +36,10 @@ const Swatch = {
         style={{ backgroundColor: `#${color.hex}` }}
         className="flex flex-col justify-center items-center text-center shadow-md rounded-md w-full"
       >
-        {/* // @ts-ignore */}
+        {/* @ts-ignore */}
         {colorNumber(color)}
         <br />
-        {/* // @ts-ignore */}
+        {/* @ts-ignore */}
         {colorName(color)}
       </div>
     )
