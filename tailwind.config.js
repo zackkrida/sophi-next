@@ -11,12 +11,17 @@ module.exports = {
   purge: ["./components/**/*.{js,ts,jsx,tsx}", "./pages/**/*.{js,ts,jsx,tsx}"],
   variants: {
     extend: {
+      ringColor: ["hover", "active"],
+      ringWidth: ["hover", "active"],
       backgroundColor: ["group-focus", "active"],
       borderColor: ["group-focus"],
       boxShadow: ["group-focus"],
       opacity: ["group-focus"],
+      transform: ["hover", "focus", "group-hover", "group-focus"],
+      translate: ["active", "group-hover"],
       textColor: ["group-focus", "active"],
       textDecoration: ["group-focus"],
+      visibility: ["hover", "focus", "group-hover", "group-focus"],
     },
   },
   theme: {

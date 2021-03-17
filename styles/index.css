@@ -17,9 +17,9 @@
 }
 
 .swatch-grid::before {
-  content: '';
+  content: "";
   width: 0;
-  padding-bottom: 100%;
+  padding-bottom: calc(100% + 1.25rem);
   grid-row: 1 / 1;
   grid-column: 1 / 1;
 }
@@ -27,4 +27,8 @@
 .swatch-grid > *:first-child {
   grid-row: 1 / 1;
   grid-column: 1 / 1;
+}
+
+.nums-tabular {
+  font-variant-numeric: tabular-nums;
 }
