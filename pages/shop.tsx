@@ -51,7 +51,8 @@ const Swatch = {
         className="flex justify-between items-center p-2"
       >
         <div>
-          <span>{colorNumber(color)}</span> | {colorName(color)}
+          {/* @ts-ignore */}
+          {colorNumber(color)} {colorName(color)}
         </div>
         <footer className="space-x-4">
           <button>
