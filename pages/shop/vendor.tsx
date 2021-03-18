@@ -31,6 +31,7 @@ export default function VendorStore({
         <div key={i.id}>
           <h2>{i.name}</h2>
           <ul>
+            {/* @ts-ignore */}
             {retailerColors(i.id)(colors).map((i) => (
               <div>{i.name}</div>
             ))}
